@@ -9,9 +9,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2022-01-20T07:58:52+00:00\n"
+"POT-Creation-Date: 2022-02-07T14:01:21+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.5.0\n"
+"X-Generator: WP-CLI 2.6.0\n"
 "X-Domain: neve\n"
 
 #. Theme Name of the theme
@@ -94,6 +94,7 @@ msgstr ""
 #: assets/apps/dashboard/src/Components/Content/FreePro.js:39
 #: assets/apps/dashboard/src/Components/Content/Help.js:60
 #: assets/apps/dashboard/src/Components/Content/Help.js:95
+#: assets/apps/dashboard/src/Components/Content/Start.js:87
 msgid "(opens in a new tab)"
 msgstr ""
 
@@ -155,7 +156,7 @@ msgstr ""
 #: header-footer-grid/Core/Builder/Abstract_Builder.php:504
 #: header-footer-grid/Core/Components/Copyright.php:84
 #: header-footer-grid/Core/Components/CustomHtml.php:171
-#: header-footer-grid/Core/Components/Logo.php:421
+#: header-footer-grid/Core/Components/Logo.php:420
 #: inc/compatibility/elementor.php:118
 #: inc/core/front_end.php:115
 #: inc/customizer/options/layout_blog.php:177
@@ -510,27 +511,27 @@ msgstr ""
 msgid "Display your company logo here or simply use words to describe your business."
 msgstr ""
 
-#: header-footer-grid/Core/Components/Logo.php:309
+#: header-footer-grid/Core/Components/Logo.php:308
 msgid "Use one logo for both modes"
 msgstr ""
 
-#: header-footer-grid/Core/Components/Logo.php:328
+#: header-footer-grid/Core/Components/Logo.php:327
 msgid "Display"
 msgstr ""
 
-#: header-footer-grid/Core/Components/Logo.php:348
+#: header-footer-grid/Core/Components/Logo.php:347
 msgid "Show Site Tagline"
 msgstr ""
 
-#: header-footer-grid/Core/Components/Logo.php:363
+#: header-footer-grid/Core/Components/Logo.php:362
 msgid "Show Site Title"
 msgstr ""
 
-#: header-footer-grid/Core/Components/Logo.php:378
+#: header-footer-grid/Core/Components/Logo.php:377
 msgid "Logo max width"
 msgstr ""
 
-#: header-footer-grid/Core/Components/Logo.php:408
+#: header-footer-grid/Core/Components/Logo.php:407
 msgid "Disable Homepage Link"
 msgstr ""
 
@@ -1132,10 +1133,12 @@ msgstr ""
 
 #: inc/admin/dashboard/main.php:424
 #: inc/core/front_end.php:402
+#: assets/apps/dashboard/src/Components/Content/Start.js:148
 msgid "WooCommerce Booster"
 msgstr ""
 
 #: inc/admin/dashboard/main.php:425
+#: assets/apps/dashboard/src/Components/Content/Start.js:149
 msgid "Empower your online store with awesome new features, specially designed for a smooth WooCommerce integration."
 msgstr ""
 
@@ -2142,48 +2145,48 @@ msgstr ""
 msgid "Search Results for: %s"
 msgstr ""
 
-#: inc/views/partials/comments.php:90
+#: inc/views/partials/comments.php:89
 msgid "Comments are closed."
 msgstr ""
 
-#: inc/views/partials/comments.php:137
+#: inc/views/partials/comments.php:136
 msgid "Comments Navigation"
 msgstr ""
 
-#: inc/views/partials/comments.php:142
+#: inc/views/partials/comments.php:141
 msgid "Previous"
 msgstr ""
 
-#: inc/views/partials/comments.php:145
+#: inc/views/partials/comments.php:144
 msgid "Next"
 msgstr ""
 
-#: inc/views/partials/comments.php:182
+#: inc/views/partials/comments.php:181
 msgid "Pingback:"
 msgstr ""
 
-#: inc/views/partials/comments.php:184
-#: inc/views/partials/comments.php:267
+#: inc/views/partials/comments.php:183
+#: inc/views/partials/comments.php:266
 #: assets/apps/components/src/Common/CustomPalette.js:23
 #: assets/apps/components/src/Common/CustomPalette.js:31
 msgid "Edit"
 msgstr ""
 
 #. translators: 1: date, 2: time
-#: inc/views/partials/comments.php:218
+#: inc/views/partials/comments.php:217
 msgid "%1$s at %2$s"
 msgstr ""
 
-#: inc/views/partials/comments.php:238
+#: inc/views/partials/comments.php:237
 msgid "Comment awaiting moderation."
 msgstr ""
 
-#: inc/views/partials/comments.php:273
+#: inc/views/partials/comments.php:272
 msgid "Reply"
 msgstr ""
 
 #. translators: number of comments
-#: inc/views/partials/comments.php:301
+#: inc/views/partials/comments.php:300
 msgctxt "comments title"
 msgid "%1$s thought on &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
@@ -2438,26 +2441,32 @@ msgid "Top Border"
 msgstr ""
 
 #: assets/apps/customizer-controls/src/radio-buttons/RadioButtonsComponent.js:73
+#: assets/apps/customizer-controls/src/radio-buttons/RadioButtonsComponent.js:158
 msgid "Icon Style 2"
 msgstr ""
 
 #: assets/apps/customizer-controls/src/radio-buttons/RadioButtonsComponent.js:77
+#: assets/apps/customizer-controls/src/radio-buttons/RadioButtonsComponent.js:154
 msgid "Icon Style 1"
 msgstr ""
 
 #: assets/apps/customizer-controls/src/radio-buttons/RadioButtonsComponent.js:81
+#: assets/apps/customizer-controls/src/radio-buttons/RadioButtonsComponent.js:162
 msgid "Icon Style 3"
 msgstr ""
 
 #: assets/apps/customizer-controls/src/radio-buttons/RadioButtonsComponent.js:85
+#: assets/apps/customizer-controls/src/radio-buttons/RadioButtonsComponent.js:166
 msgid "Icon Style 4"
 msgstr ""
 
 #: assets/apps/customizer-controls/src/radio-buttons/RadioButtonsComponent.js:89
+#: assets/apps/customizer-controls/src/radio-buttons/RadioButtonsComponent.js:170
 msgid "Icon Style 5"
 msgstr ""
 
 #: assets/apps/customizer-controls/src/radio-buttons/RadioButtonsComponent.js:93
+#: assets/apps/customizer-controls/src/radio-buttons/RadioButtonsComponent.js:174
 msgid "Icon Style 6"
 msgstr ""
 
@@ -2595,7 +2604,7 @@ msgid "Go to Neve Codex"
 msgstr ""
 
 #: assets/apps/dashboard/src/Components/Content/Help.js:49
-#: assets/apps/dashboard/src/Components/Content/Start.js:111
+#: assets/apps/dashboard/src/Components/Content/Start.js:116
 msgid "Go to docs"
 msgstr ""
 
@@ -2648,43 +2657,56 @@ msgstr ""
 msgid "Go to Starter Sites"
 msgstr ""
 
-#: assets/apps/dashboard/src/Components/Content/Start.js:83
+#: assets/apps/dashboard/src/Components/Content/Start.js:85
 msgid "Get Neve Pro"
 msgstr ""
 
-#: assets/apps/dashboard/src/Components/Content/Start.js:92
+#: assets/apps/dashboard/src/Components/Content/Start.js:97
 msgid "Customizer quick links"
 msgstr ""
 
-#: assets/apps/dashboard/src/Components/Content/Start.js:101
+#: assets/apps/dashboard/src/Components/Content/Start.js:106
 msgid "Getting Started? Check help and docs"
 msgstr ""
 
-#: assets/apps/dashboard/src/Components/Content/Start.js:105
+#: assets/apps/dashboard/src/Components/Content/Start.js:110
 msgid "Need more details? Please check our full documentation for detailed information on how to use Neve."
 msgstr ""
 
-#: assets/apps/dashboard/src/Components/Content/Start.js:117
+#: assets/apps/dashboard/src/Components/Content/Start.js:123
 msgid "Boost productivity and speed up your workflow by saving all your designs and share them automatically to all your sites in 1-click."
 msgstr ""
 
-#: assets/apps/dashboard/src/Components/Content/Start.js:124
+#: assets/apps/dashboard/src/Components/Content/Start.js:130
 msgid "Discover Templates Cloud"
 msgstr ""
 
-#: assets/apps/dashboard/src/Components/Content/Start.js:129
+#: assets/apps/dashboard/src/Components/Content/Start.js:135
 msgid "Learn how to use Templates Cloud"
 msgstr ""
 
-#: assets/apps/dashboard/src/Components/Content/Start.js:140
+#: assets/apps/dashboard/src/Components/Content/Start.js:155
+#: assets/apps/dashboard/src/Components/Content/Start.js:170
+msgid "Learn more"
+msgstr ""
+
+#: assets/apps/dashboard/src/Components/Content/Start.js:163
+msgid "Block Editor Booster"
+msgstr ""
+
+#: assets/apps/dashboard/src/Components/Content/Start.js:164
+msgid "Enhance your Gutenberg experience with new blocks, including Business Hours, Popup, Review Comparison Table and more."
+msgstr ""
+
+#: assets/apps/dashboard/src/Components/Content/Start.js:180
 msgid "Feedback"
 msgstr ""
 
-#: assets/apps/dashboard/src/Components/Content/Start.js:141
+#: assets/apps/dashboard/src/Components/Content/Start.js:181
 msgid "Share your feedback for Neve and get the chance to win the pro version."
 msgstr ""
 
-#: assets/apps/dashboard/src/Components/Content/Start.js:150
+#: assets/apps/dashboard/src/Components/Content/Start.js:190
 msgid "Leave Feedback"
 msgstr ""
 

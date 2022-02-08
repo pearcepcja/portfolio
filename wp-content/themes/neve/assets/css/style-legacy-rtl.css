@@ -2542,6 +2542,14 @@ audio {
   list-style: inherit;
 }
 
+body.elementor-page select {
+  background-image: none;
+}
+
+body.elementor-page .wrapper {
+  overflow: visible;
+}
+
 /*Skin*/
 .header-menu-sidebar {
   padding: 0;

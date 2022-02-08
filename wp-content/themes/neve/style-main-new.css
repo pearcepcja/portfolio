@@ -132,7 +132,7 @@ form label,
   text-transform: var(--textTransform, var(--h3TextTransform));
 }
 
-.comment-reply-title {
+.comments-title, .comment-reply-title {
   font-size: var(--fontSize, var(--h4FontSize));
   font-weight: var(--fontWeight, var(--h4FontWeight));
   line-height: var(--lineHeight, var(--h4LineHeight));
@@ -1865,10 +1865,10 @@ pre code {
   --listStyle: disc;
 }
 
-.nv-content-wrap > ul,
-.nv-content-wrap > ol,
-.excerpt-wrap > ul,
-.excerpt-wrap > ol {
+.nv-content-wrap ul,
+.nv-content-wrap ol,
+.excerpt-wrap ul,
+.excerpt-wrap ol {
   margin: 30px 0;
 }
 
@@ -2142,13 +2142,17 @@ footer .nav-ul,
   }
 }
 
-.neve-main .elementor-text-editor ul,
-.neve-main .elementor-text-editor ol {
-  padding-left: 15px;
+.elementor-widget-text-editor {
+  --listPad: 15px;
+  --listStyle: disc;
 }
 
-.neve-main .elementor-text-editor ul {
-  list-style: inherit;
+body.elementor-page .wrapper {
+  overflow: visible;
+}
+
+.elementor select {
+  background-image: none;
 }
 
 .header-menu-sidebar {
