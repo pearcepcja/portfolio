@@ -2,10 +2,10 @@
 Contributors: rankmath
 Plugin link: https://rankmath.com/?utm_source=LP&utm_campaign=WP
 Tags: seo, sitemap, google search console, schema, redirection, WordPress SEO
-Tested up to: 6.0
-Requires at least: 5.6
+Tested up to: 6.4.1
+Requires at least: 6.0
 Requires PHP: 7.4
-Stable tag: 1.0.100.1
+Stable tag: 1.0.208.1
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -77,7 +77,7 @@ Rank Math's integrated LSI keyword tool gives you multiple keyword variations of
 Rank Math makes social thumbnails click magnets by giving you the option of overlaying a GIF or a video icon on the thumbnail.
 
 * **Advanced SEO Analysis Tool**
-With just a single click, Rank Math can perform an SEO audit of your website.
+With just a single click, Rank Math can perform an SEO Analyzer of your website.
 
 * **30 Detailed SEO Tests**
 Rank Math is designed to completely supercharge your website's SEO with its 30 detailed SEO tests. Free account needed.
@@ -315,7 +315,7 @@ Even with significantly more features than other plugins, Rank Math loads amazin
 	* Contextual Help
 
 ### BIG Publications are Raving About Rank Math ###
-**<a href="https://s.rankmath.com/reviews" target="_blank">Rank Math Reviews</a>**
+**<a href="https://rankmath.com/reviews/" target="_blank">Rank Math Reviews</a>**
 
 [youtube https://www.youtube.com/watch?v=cFI_jRVOQZk]
 
@@ -417,7 +417,10 @@ Rank Math® SEO is a registered trademark. Please use the following format when 
 
 **<a href="https://rankmath.com/kb/wordpress/seo-suite/?utm_source=LP&utm_campaign=WP" target="_blank">3. User Documentation:</a>** Although Rank Math is already easy to set up, we've put together tutorials, guides, and some knowledge bases to help you set up and get started with Rank Math.
 
-**<a href="https://translate.wordpress.org/projects/wp-plugins/seo-by-rank-math/?utm_campaign=Rank+Math" target="_blank">4. Contribute (Sharing is caring):</a>** If you are one of those caring hearts that want to help, go to our <a href="https://github.com/RankMath/seo-by-rank-math/?utm_campaign=Rank+Math" target="_blank">Rank Math's GitHub Repository</a> and see how you can contribute to the SEO community. You can also add a new language via <a href="https://translate.wordpress.org/projects/wp-plugins/seo-by-rank-math/?utm_campaign=Rank+Math" target="_blank">translate.wordpress.org.</a>
+**<a href="https://translate.wordpress.org/projects/wp-plugins/seo-by-rank-math/?utm_campaign=Rank+Math" target="_blank">4. Contribute (Sharing is caring):</a>** If you are one of those caring hearts that want to help, please check the following resources:
+* [Rank Math's GitHub repository](https://github.com/RankMath/seo-by-rank-math/) - Includes all the uncompressed files.
+* [Content Analyzer Code Files](https://github.com/rankmath/content-analyzer) - Includes all supplementary uncompressed files.
+* [Translation](https://translate.wordpress.org/projects/wp-plugins/seo-by-rank-math/) - If you are looking to translate the plugin into your local language.
 
 **<a href="https://mythemeshop.com/wordpress-errors-fixes/?utm_campaign=Rank+Math" target="_blank">5. Fixing Common Errors:</a>** Sometimes, avoidable or common issues can get you stuck. We’ve created a common guide where we discuss all the common issues and how to fix them.
 
@@ -526,14 +529,14 @@ Google WILL NOT necessarily show the Schema data though. They check a few things
 Here is a quote from one of Google's help articles:
 `We perform algorithmic and manual quality checks to ensure that structured data meets relevancy standards. In cases where we see structured data that does not comply with these standards, we reserve the right to disable rich snippets for a site in order to maintain a high-quality search experience for our users. Read our webmaster guidelines for more details.`
 
-Link: <a href="https://s.rankmath.com/googlestructureddata" target="_blank">https://s.rankmath.com/googlestructureddata</a>
+Link: <a href="https://developers.google.com/search/docs/appearance/structured-data/sd-policies/" target="_blank">https://developers.google.com/search/docs/appearance/structured-data/sd-policies</a>
 
 = Why is the Carousel or Data Highlighter Not Working? =
 Google can actually extract content from your pages and display it as a rich carousel (AMP or not).
 
 But to make it easier, the best you can do is to use the Data Highlighter option in your Search Appearance tab in Webmaster Tools for your important pages (especially the pillar posts) but not on all content types. Rank Math makes it extremely convenient to do so.
 
-To learn more about using this feature, visit <a href="https://s.rankmath.com/googledatahighlighter" target="_blank">https://s.rankmath.com/googledatahighlighter</a>
+To learn more about using this feature, visit <a href="https://support.google.com/webmasters/answer/2692911" target="_blank">https://support.google.com/webmasters/answer/2692911?</a>
 
 = How to enter Meta Keywords in the plugin? =
 Google does not use the keyword meta tag in web ranking. Here's a video supporting that:
@@ -580,14 +583,15 @@ Please drop us an email at support@rankmath.com and we would be more than happy 
 
 == Changelog ==
 
-= 1.0.100[Oct 19, 2022] =
-* Fixed: Missing [Google Analytics tracking code](https://rankmath.com/kb/install-google-analytics/) on some setups
-* Fixed: [Index Status](https://rankmath.com/kb/analytics/#index-status) was not working well on Arabic language sites
-* Fixed: Filter to change [Opengraph image](https://rankmath.com/kb/filters-hooks-api-developer/#change-opengraph-image) was not working when an image was not added in the settings
-* Fixed: Sitemap was getting timed out on some sites hosted on Cloudflare when the [Include Images in Sitemap](https://rankmath.com/kb/configure-sitemaps/#images-in-sitemaps) option was enabled
+= 1.0.208 [Dec 07, 2023] =
+- Improved: Content AI is now optimized to deliver results quickly
+- Improved: [Bulk Generate SEO Meta tags](https://rankmath.com/kb/bulk-generate-seo-meta-tags/) feature is now restricted to Paid Content AI users
+- Fixed: [Sitemap Index](https://rankmath.com/kb/sitemaps-seo-benefits/#xml-sitemap) was incorrectly using noindexed post data for `Last Modified` date
+- Fixed: [Update SEO Score tool](https://rankmath.com/kb/seo-score-not-available/#update-seo-scores) now handles encoded characters in Post URL correctly
+- Removed: Google Mobile-Friendly tool from the [Quick Actions admin menu](https://rankmath.com/kb/quick-actions/) as Google deprecated it
 
-= 1.0.100.1[Oct 21, 2022] =
-* Improved: Renamed the secret parameter in the thumbnail overlay URL to hash to avoid any confusion, as this is not a sensitive information
-* Fixed: [Icon Overlay](https://rankmath.com/kb/meta-box-social-tab/#add-icon-overlay-to-thumbnails) was not working after the last update
+= 1.0.208.1 [Dec 07, 2023] =
+- Fixed: Cache issue was causing Content AI to not work properly.
+
 
 Full changelog can be found here - **[Rank Math changelog](https://rankmath.com/changelog/?utm_source=Plugin&utm_medium=Changelog&utm_campaign=WP)**
