@@ -1,608 +1,373 @@
-=== Gutenberg Blocks and Template Library by Otter ===
-Contributors: themeisle, hardeepasrani, soarerobertdaniel7, mariamunteanu1
-Tags: gutenberg blocks, gutenberg, block,post grid block, google map block, columns block, advanced columns, section, row, layout, templates, lottie, progress bar, product review, review, accordion, tabs, page builder, countdown, contact form, masonry, popup, review builder
-Requires at least: 5.6
-Tested up to: 5.8
-Requires PHP: 5.4
-Stable tag: trunk
+=== Otter Blocks - Gutenberg Blocks, Page Builder for Gutenberg Editor & FSE ===
+Contributors: themeisle, hardeepasrani, soarerobertdaniel7, mariamunteanu1, arinat, uriahs-victor, john_pixle, wildmisha, irinelenache
+Tags: block, blocks, gutenberg, gutenberg blocks, page builder
+Requires at least: 6.2
+Tested up to: 6.9
+Requires PHP: 5.6
+Stable tag: 3.1.4
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
-Otter is a dynamic collection of page building blocks and templates for the WordPress block editor. Create beautiful and attracting posts, pages, and landing pages with Gutenberg Blocks and Template Library by Otter. Otter comes with dozens of Gutenberg blocks that are all you need to build beautiful pages in Gutenberg.
+Quickly create WordPress pages with 20+ blocks, 100+ ready-to-import designs, and advanced editor extensions. It’s website building, Lego-style!
 
 == Description ==
 
-Otter is a dynamic collection of page building blocks and templates for the WordPress block editor.
+Otter is a Gutenberg Blocks page builder plugin that adds extra functionality to the WordPress Block Editor (also known as Gutenberg) for a better page-building experience without the need for traditional page builders like Elementor and Divi.
 
-The growing list of page building blocks covers all of the elements you need to build your WordPress site. Combine the blocks with Otter to build stunning pages and posts with the simplicity of  designing.
+## Quick Links 🔗
 
-With a lightweight approach, Otter enhances WordPress site building without impacting site speed. With Otter, you can truly harness the potential of the new WordPress era.
+- Do you want to see Otter blocks in action before installing? [SEE OTTER BLOCKS DEMO](https://demo.themeisle.com/otter-blocks/?utm_source=wordpressorg&utm_medium=readme&utm_campaign=otter-blocks)
+- New to the Gutenberg Blocks ecosystem? Check out our article on [GUTENBERG EXPLAINED](https://themeisle.com/blog/gutenberg-blocks-explained/)
+- Need any help with setup? Checkout our [DOCUMENTATION](https://docs.themeisle.com/article/1478-otter-blocks-documentation)
+- Interested in Otter Pro? Here are more details about [OTTER PRO](https://themeisle.com/plugins/otter-blocks/upgrade/?utm_source=wordpressorg&utm_medium=readme&utm_campaign=otter-blocks)
 
-https://www.youtube.com/watch?v=ypIeTgvYeRE
+## With Otter Blocks, You Get Access To
 
-It has:
+- 20+ extra blocks for Gutenberg
+- Collection of Patterns
+- Full-page Templates
+- Visibility Conditions
+- Custom CSS 
+- Animations 
+- Dynamic Content and more
 
-- Section Block
-- Advanced Heading Block
-- Button Group Block
-- Slider Block
-- Accordion Block
-- Tabs Block
-- Google Maps Block
-- Countdown Block
-- Contact Form Block
-- Masonry Gallery Block
-- Post Grid Block
-- Product Review Block
-- Service Block
-- Pricing Block
-- Testimonial Block
-- About Author Block
-- Icon Block
-- Lottie Animation Block
-- Progress Bar Block
-- Popup Block
-- Circular Progress Block
-- Sharing Icons Block
-- Plugin Card Block
+For all blocks including third-party blocks present on your website.
 
-=== STUNNING WEB PAGES WITH DRAG AND DROP EFFICIENCY ===
+The Custom CSS block feature makes it possible to directly customize the CSS properties of any Gutenberg block on the page, while the Animation feature makes it quick and easy to add animations to any block to enhance the appeal of your different page blocks and sections. 
 
-Otter can be used to build everything from a personal blog to an international store without losing the personal touch. Otter’s famous ease-of-use transforms basic blocks into expressive layouts in seconds:
+With the Visibility Conditions feature by Otter, you can set which conditions should be met for your chosen blocks to be displayed on the page.
 
-=== DO IT YOUR WAY WITH SECTION BLOCKS ===
+Patterns Library, contains a range of different elements in a variety of styles to help you build great pages. All of your website’s most important areas are covered: headers, testimonials, pricing tables, sections, and more.
 
-With Otter’s Section Block you will be able to create innovative layouts that improve readability with enhanced visual appeal. The Section Block lets you create interesting layouts that help emphasis your content.
+### Checkout a quick overview of Otter Blocks
+https://www.youtube.com/watch?v=WcS2Vi4IOYw
 
-You can create your own layouts or select one of Otter’s layouts and templates. Each of the layouts has been professionally designed to provide a range of visually pleasing sections like About, Headers, Pricing, Testimonials.
+## How Can Otter’s Gutenberg Blocks Help You? 🤔
 
-You can take advantage of the responsive controls to increase padding and margins or drop elements to create visual experiences perfect for mobile, tablet, or desktop.
+### A WordPress Gutenberg Blocks Plugin
 
-=== TEMPLATE LIBRARY ===
+Otter adds 26+ amazing and useful blocks to make page building in Gutenberg a breeze! 
 
-Unleash your inner designer with Otter’s template library. With over 50 different templates you can build a professional site quickly and efficiently.
+More than just blocks, you need advanced customization options to give you control over style and appearance. With Otter, you’ve got it all.
 
-The template library provides a range of different elements in a variety of styles to help you build great pages.
+Every block has customization support to help you style your site according to your vision:
 
-All of your website’s most important areas are covered; headers, testimonials, pricing tables, content and more.
+- Color controls for primary, accents, and backgrounds.
+- Animation backing, bouncing, fading, flipping, rotating, sliding, rolling, light speed, and more at the click of a button.
+- Typography controls from spacing to font choice.
 
-From headers with images to headers with features, from content with images to about sections with video. Otter has a template to match your vision, just add the content and you’ll be set.
-
-=== REDESIGNED GOOGLE MAPS BLOCK ===
-
-Otter’s integration with the WordPress Block Editor allows you to see your changes live from the backend. Innovative blocks like the Google Maps block help you customise the experience right down to the color and description of the markers, search for places by name or coordinates, add and remove map controls, or change the size and style of the maps with a few clicks.
-
-=== CSS ON EVERY BLOCK ===
-
-Otter’s commitment to user centred building includes a unique block-by-block CSS extension that makes it easy for you to add CSS to your blocks. The additional CSS area is integrated into the backend to make targeting your blocks easier. You can add media queries, change colours, and add borders all in one easy to follow area.
-
-=== CUSTOMIZE EVERY BLOCK ===
-
-More than layouts and sections, you need advanced customisation options to give you control over style and appearance. With Otter, you’ve got it all.
+### Mobile Responsiveness of Otter Blocks
 
 Create mobile-friendly designs with Otter’s built-in responsive settings. Each block can be tweaked to provide a consistent experience for mobile, tablet, and desktop.
 
-Help your site shine with design options built to enhance your brand. Every block has customization support to help you style your site according to your vision:
+### A WordPress Gutenberg Block Conditions Plugin
 
-- Color controls for primary, accents, and backgrounds.
-- Animation at the click of a button.
-- Typography controls from spacing to font choice.
+Want to show certain blocks only when a user is Logged in or Logged Out? How about if they’re a customer of your store versus an editor for your blog or any other user role? With the Gutenberg Block Conditions feature available in Otter, it’s possible. Upgrade to the PRO version of Otter to unleash the power of more block conditions such as:
+
+- URL Query String 
+- Date Range
+- Day of the Week
+- Time of the Day
+- WooCommerce Products in Cart
+- WooCommerce Total Spent
+- WooCommerce Cart Total
+- WooCommerce Categories
+- WooCommerce Tags
+- WooCommerce Attributes
+- Cookie-based
+- And more
+
+### A WordPress Gutenberg Blocks Animation Plugin
+
+WOW, your website visitors with amazing animations that can be added to any block on the page. With over 50+ animations available to choose from; Otter makes it possible to add some extra flare to any post or page on your website
+
+### A WordPress Gutenberg Popup Plugin
+
+Popups are one of the oldest lead-capturing and notice-conveying techniques on the web. With the Gutenberg Popup Block available in Otter, you can create popups made from any other block available in Gutenberg! 
+
+Fine-tune your popups by setting when they should appear and how they can be closed. With our popup block, you gain access to multiple triggers such as on load, on exit, on anchor click, and on scroll. 
+
+Additionally, you can design your popup with custom overlays to align with your brand identity and capture more attention. [Check live demo](https://demo.themeisle.com/otter-blocks/popup/)
+
+### Global Defaults for Otter's Blocks
+
+Tired of always having to set the same options every time you add a block to the page? With Otter, you can set the default configuration for some of the most commonly used blocks like the Section Block, Icon Block, Advanced Heading, and more.
+
+## Blocks Available in Otter:
+
+#### Accordion Gutenberg Block [FREE]
+
+Use this block to create vertically stacked lists of content that can be revealed or hidden with the click of a button; more commonly known as Accordions. [Check live demo](https://demo.themeisle.com/otter-blocks/accordion/)
+
+#### Advanced Heading Gutenberg Block [FREE]
+
+The heading block you didn't know you needed. This Otter block has all the functionality of the default heading block with a few other capabilities like the ability to change the font, highlight parts of the text, and more. [Check live demo](https://demo.themeisle.com/otter-blocks/advanced-heading/)
+
+#### AI Block [FREE]
+
+Step inside the AI Block, your gateway to effortless content and form creation, all powered by AI. With the AI Content Generator, crafting text, dynamic headings, and insightful paragraphs is a breeze, while the AI Form Generator simplifies building forms. It's your all-in-one solution for seamless work — everything you need with AI, neatly packed into a single block.
+
+#### Button Group Gutenberg Block [FREE]
+
+Create multiple buttons quickly and easily and show them vertically or horizontally based on the device the page is being viewed on. [Check live demo](https://demo.themeisle.com/otter-blocks/button-group/)
+
+#### Countdown Gutenberg Block [FREE]
+
+Counting down to a big event? Show it by making use of these Gutenberg blocks. Count down from Days, Hours, Minutes, or Seconds. [Check live demo](https://demo.themeisle.com/otter-blocks/countdown/)
+
+#### Contact Form Gutenberg Block [FREE]
+
+Quickly and easily insert a contact form anywhere on the page. Optionally, turn the form into a lead-generating machine by integrating it with Brevo(Sendinblue) or Mailchimp. Plus, streamline data management with webhook integration and ensure enhanced security with hCaptcha integration. [Check live demo](https://demo.themeisle.com/otter-blocks/form/)
+
+#### Content Timeline Block [FREE]
+
+Elegantly display events in a chronological timeline. Ideal for highlighting historical events, process steps, or key milestones.
+
+#### Countdown Block [FREE]
+
+Counting down to a big event? Show it by making use of these Gutenberg blocks. [Check live demo](https://demo.themeisle.com/otter-blocks/countdown/)
+
+#### Circular Progress Block [FREE]
+
+Show your progress with a beautiful Circle Counter block. [Check live demo](https://demo.themeisle.com/otter-blocks/circle-counter/)
+
+#### Flip Box Block [FREE]
+
+Creates a card with a flip effect, where you can insert any content or blocks available in Gutenberg. [Check live demo](https://demo.themeisle.com/otter-blocks/flip-card/)
+
+#### Icon List Gutenberg Block [FREE]
+
+Supercharge boring point lists by using custom icons as the pointers. [Check live demo](https://demo.themeisle.com/otter-blocks/icon-list/)
+
+#### Icon Gutenberg Block [FREE]
+
+Display any icon from Font Awesome or our own list of custom icons anywhere on the page. Change colors, add borders, and couple with other blocks to enhance the look of your page. [Check live demo](https://demo.themeisle.com/otter-blocks/icon/)
+
+#### Lottie Animation Gutenberg Block [FREE]
+
+Have you heard about Lottie? Awesome! With Otter's Lottie Animation Gutenberg Block, you can display Lottie animations anywhere in Gutenberg. [Check live demo](https://demo.themeisle.com/otter-blocks/lottie-animation/)
+
+#### Maps Gutenberg Block [FREE]
+
+Choose between either an Open Street Map or Google Maps block and create markers for your points of interest for your website visitors. Our Maps block helps you customize the map experience right down to the color and description of the markers, search for places by name or coordinates, add and remove map controls, or change the size and style of the maps with a few clicks. [Check live demo](https://demo.themeisle.com/otter-blocks/maps/)
+
+#### Progress Bar Block [FREE]
+
+Show your progress with a beautiful Progress Bar block. [Check live demo](https://demo.themeisle.com/otter-blocks/progress-bar/)
+
+#### Posts Gutenberg Block [FREE]
+
+Use this block to insert items from posts, pages, and custom post types into the current page being edited. The Posts block allows displaying a certain number of posts on different pages. Customizations available for this block cover areas such as styles, post types, settings, designs, and layout.
+
+#### Product Review Gutenberg Block [FREE]
+
+Blogging about a product you love? Or maybe you run a review website? Use this block to create a review table for the item and list its features, pros and cons as well as optional buy links. [Check live demo](https://demo.themeisle.com/otter-blocks/product-review/)
+
+#### Popup Gutenberg Block [FREE]
+
+Create stunning popups and fine-tune when they should appear and how they can be closed. [Check live demo](https://demo.themeisle.com/otter-blocks/popup/)
+
+#### Slider Gutenberg Block [FREE]
+
+Use this Gutenberg block to create image sliders on any Gutenberg page. Settings include slider height, delay, slides per page, autoplay, and more. [Check live demo](https://demo.themeisle.com/otter-blocks/slider/)
+
+#### Section Gutenberg Block [FREE]
+
+A column block on steroids! This block allows you to create a section with up to 6 columns that can each have a custom background color, image, or gradient. Use this block's responsive features to set the padding and margin for desktop, tablet, and mobile displays. [Check live demo](https://demo.themeisle.com/otter-blocks/section/)
+
+#### Stripe Checkout [FREE]
+
+This block will be very useful if you want to sell a couple of products without setting up a whole store, such as ebooks, some licenses, etc.
+
+#### Sharing Icons Block [FREE]
+
+Share buttons for your website visitors to share content on any social sharing service. [Check live demo](https://demo.themeisle.com/otter-blocks/sharing-icons/)
+
+#### Tabs Gutenberg Block [FREE]
+
+Use this block to create horizontally stacked lists of content that can be revealed or hidden with the click of a button; more commonly known as Tabs. [Check live demo](https://demo.themeisle.com/otter-blocks/tabs/)
+
+#### Add to Cart Gutenberg Block [PRO]
+
+Drop an Add to Cart button block for any WooCommerce product anywhere on the post or page that you're editing.
+
+#### Business Hours Gutenberg Block [PRO]
+
+Create a beautifully styled Business Hours table and fine-tune its settings until it's perfect.
+
+#### Live Search [PRO]
+
+The Live Search feature enhances the core block Search by adding two additional attributes ( isLive and postTypes ) that can be set inside the inspector under the Live Search panel.
+
+#### Modal [PRO]
+
+Implement modal dialogs for an interactive experience, displaying forms, content, or announcements directly within the page layout.
+
+#### Review Comparision Table [PRO]
+
+Get ready to impress your readers with Otter's "Review Comparison Table" block. Effortlessly create professional-looking product comparison tables for your blog or website.
+
+---
+
+We're constantly adding new Gutenberg Blocks to Otter to assist in your website page building. Feel free to tell us what we’re missing on our [Support Forum](https://wordpress.org/support/plugin/otter-blocks/)! Some other blocks include:
+
+## Ready to Import Patterns & Full-page Templates in Otter:
+
+Easily launch your site with our customizable patterns and full-page WordPress templates. Import ready-made designs with just one click and get started in no time.
+
+#### Service Patterns
+
+Organize your services clearly with sections that keep your page tidy while offering detailed information on demand. [Check live demo](https://demo.themeisle.com/otter-blocks/service/)
+
+#### Testimonial Patterns
+
+Organize your services clearly with sections that keep your page tidy while offering detailed information on demand. [Check live demo](https://demo.themeisle.com/otter-blocks/service/)
+
+#### Pricing Patterns
+
+Tailor your pricing tables with versatile layout patterns that enhance readability and appeal, suitable for any business model. [Check live demo](https://demo.themeisle.com/otter-blocks/pricing/)
+
+#### Features Section Patterns
+
+Detail the features of your products or services using clean, organized layouts that make complex information easy to digest. [Check live demo](https://demo.themeisle.com/otter-blocks/features-patterns/)
+
+#### Call-to-action Section Patterns
+
+Drive conversions with compelling call-to-action sections, designed to grab attention and motivate immediate responses. [Check live demo](https://demo.themeisle.com/otter-blocks/cta-patterns/)
+
+📌 Check a live demo of all the patterns available by [clicking here](https://demo.themeisle.com/otter-blocks/patterns/).
+
+📌 Check a live demo of all the Full-page templates available by [clicking here](https://demo.themeisle.com/otter-blocks/templates/).
+
+### Get More Options in Otter Pro 🤩
+
+#### WooCommerce Builder Blocks 
+
+Build custom Single Product Pages using WooCommerce Builder Blocks by Otter. All the new features are designed to maximize your conversion rate and bring more improvements. 
+
+With [Otter Pro](https://themeisle.com/plugins/otter-blocks/upgrade/?utm_source=wordpressorg&utm_medium=readme&utm_campaign=otter-blocks), you get a lot more features, including:
+
+- Add to Cart Block
+- Business Hours Block
+- Modal Block
+- Product Review Comparison Block
+- Live Search Block
+- Pro Add-ons for Free Blocks
+- More Dynamic Content options
+- More Visibility Conditions options
+- More Patterns & Full-page templates
+- and more!
+
+You can try a live demo of Otter Blocks - no setup required. [Click here](https://themeisle.com/plugins/otter-blocks/try-otter/?utm_source=wordpressorg&utm_medium=readme&utm_campaign=otter-blocks) to try it out.
+
+## Who is Otter For? 👀
+
+- Anyone looking to bring out the best features of the new Gutenberg Editor with useful and easy-to-use Gutenberg blocks.
+- Anyone thinking of moving away from traditional page builders like Elementor and Divi Builder in favor of the new Gutenberg Block Editor.
+- Anyone trying to build quick Gutenberg pages in record time.
+- Anyone trying to hide/show Gutenberg blocks based on conditions like user logged in/out status.
+- Anyone trying to add animations to Gutenberg blocks.
+
+## Let's See Some Use Cases 🚀
+
+Otter opens up a world of opportunities! Discover how different audience segments can make the most of it:
+
+- **Travel Bloggers:** Enhance your travel blog with captivating maps using Otter's Maps and Google Maps blocks to showcase your journeys to the world.
+  
+- **Non-Profit Organizations:** Engage your audience and promote your cause with Otter's Circle Counter and Testimonial blocks to share inspiring success stories.
+  
+- **Restaurant Owners:** Showcase your restaurant's menus and gather reservations easily with Otter's Flip Card and Form blocks for a mouth-watering online presence.
+
+- **Tech Product Reviewers:** Present detailed product reviews with Otter's Product Review, making your content informative and captivating.
+
+- **Bloggers:** Enhance your blog posts with Sharing Icons, creating easy sharing options for your readers. Use Slider to display image galleries and engage your audience.
+
+- **Content Creators and Digital Product Sellers:** Stripe checkout gutenberg block offers a convenient way to sell digital products, such as e-books, online courses, software licenses, or digital artwork, without the need to set up a full-fledged online store. By integrating this block, you can provide a streamlined and secure checkout experience to customers.
+
+- **Product Reviewers:** Create informative and attractive product review comparisons with a Review Comparison Table, helping users make informed decisions.
+
+- **Restaurant Owners:** Display your business hours in a stylish format using Business Hours blocks, making it easy for customers to find you.
+
+- **Online Directories:** Websites offering directories, listings, or extensive content where live search simplifies content access.
+
+---
+
+### Support 🤝
+
+We're here to help. Feel free to open a new thread on the [Support Forum](https://wordpress.org/support/plugin/otter-blocks/).
+
+### Documentation 📚
+
+Discover how to make the most of Otter Blocks with our detailed and user-friendly [documentation](https://docs.themeisle.com/article/1478-otter-blocks-documentation).
+
+### Become a Contributor 💁‍♂️
+
+Otter Blocks is an open-source project, and we welcome contributors to be part of our vibrant community! Help us improve the plugin and make it even better - [GitHub Link](https://github.com/Codeinwp/otter-blocks/)
+
+### Useful Resources 📌
+
+- Read more about WordPress on our [blog](https://themeisle.com/blog/).
+- Interested in our other plugins? Take a look [here](https://themeisle.com/wordpress-plugins/?utm_source=wordpressorg&utm_medium=readme&utm_campaign=otter-blocks).
+- Get the most out of Otter Blocks with our helpful [YouTube Tutorials Playlist](https://youtube.com/playlist?list=PLmRasCVwuvpSep2MOsIoE0ncO9JE3FcKP).
+
+The plugin is relying on the service behind api.themeisle.com for accessing the patterns list, AI prompts and Onboarding. No account is required to access the service template collection and the privacy policy can be found [here](https://themeisle.com/privacy-policy/).
 
 == Screenshots ==
 
-1. Section Block
-2. Google Map Block
+1. Gutenberg Block Animations
+2. Visibility Condition Rules
 3. Posts Block
+4. AI Form Generator
+5. AI Layout Generator
+6. Patterns & Full-page templates Library
+
+== Installation ==
+
+#### Automatic Installation
+
+To download and install the Otter plugin, make sure you follow the steps below:
+
+- Navigate to the WordPress  Dashboard > Plugins.
+- Click the Add New button and type in the Search Bar "Otter Blocks".
+- When the plugin appears, click on the Install button and then on  Activate.
+
+#### Manual Installation
+
+- Log into your website admin page, then go to Appearance > Plugins. You will see all the plugins currently installed in your dashboard listed there.
+- To install a new WordPress plugin, simply click on the Add New tab.
+- Click the Upload Plugin button in the WordPress Dashboard.
+- Click the Choose File button, select the ZIP archive of the Otter Blocks plugin from your local computer, and press the Install Now button.
+- Click on the Activate button under the "Plugin installed successfully" message.
+
+If you want to upload the plugin using FTP, [click here](https://themeisle.com/blog/what-is-ftp-wordpress/) to see a detailed explanation about it.
+
+== Frequently Asked Questions ==
+
+= Is Otter Blocks free? =
+
+Otter comes in both free and premium versions. The [premium version](https://themeisle.com/plugins/otter-blocks/upgrade/) offers a wider variety of blocks and multiple options to customize them, [compared to the free version](https://docs.themeisle.com/article/1487-whats-the-difference-between-otter-free-and-otter-neve-pro).
+
+= What page builder is compatible with Otter? =
+
+Otter provides blocks for Gutenberg, the default WordPress editor, and page builder.
+
+= Can I use Otter with any WordPress theme? =
+
+Sure, Otter is compatible with any WordPress theme.
+
+= Where can I get help? =
+
+If you encounter any difficulties or if you have questions about Otter, you can create a ticket on our [support forum](https://wordpress.org/support/plugin/otter-blocks/). Also, feel free to check our [documentation](https://docs.themeisle.com/article/1478-otter-blocks-documentation) to find out more about the features within the plugin and how to use it to its full potential.
+
+= What are the Patterns and how can I use them? =
+
+The Patterns have been designed to make it easier for you to build your site using predefined blocks that can be then customized according to your needs. You can take a look at our [dedicated documentation](https://docs.themeisle.com/article/1785-block-patterns-otter-features-library) to find out all you need to know about the Patterns.
 
 == Changelog ==
 
-##### [Version 1.7.4](https://github.com/Codeinwp/otter-blocks/compare/v1.7.3...v1.7.4) (2021-12-02)
+##### [Version 3.1.4](https://github.com/Codeinwp/otter-blocks/compare/v3.1.3...v3.1.4) (2025-12-12)
 
-- Fix Leaflet scripts not loading properly
-- Fix blocks causing errors on widgets
-- Fix Blocks CSS not working properly
-- Fix Blocks Animation causing the debugging error
+- Updated dependencies
 
 
-
-
-##### [Version 1.7.3](https://github.com/Codeinwp/otter-blocks/compare/v1.7.2...v1.7.3) (2021-11-18)
-
-
-- Plus a lot more features from 1.7.2: https://github.com/Codeinwp/otter-blocks/blob/master/CHANGELOG.md#version-172-2021-11-18
-
-
-
-
-##### [Version 1.7.2](https://github.com/Codeinwp/otter-blocks/compare/v1.7.1...v1.7.2) (2021-11-18)
-
-- Add Duplicate/Move/Delete options to Section Block’s Columns
-- Add Edit option in Lottie Block
-- Optimize JavaScript loading
-- Fix Pro/Cons leaving focus in Review Block
-- Form Block Improvements
-- Advance Heading Improvements
-- Add Alignment option to Icon List Block
-- Reduce Build Size
-- Fix Button Group spacing on Mobile
-- Fix edge cases of Widget screen breaking
-- Icon List block improvements
-
-
-
-
-##### [Version 1.7.1](https://github.com/Codeinwp/otter-blocks/compare/v1.7.0...v1.7.1) (2021-10-25)
-
-- Development changes
-- Development changes
-
-
-
-
-#### [Version 1.7.0](https://github.com/Codeinwp/otter-blocks/compare/v1.6.9...v1.7.0) (2021-10-11)
-
-- Add Masonry Variation to Gallery
-- Add Countdown Block
-- Add Popup Block
-- Add Contact Form Block
-- Add Box Shadow extension for Image Block
-- Add Review Comparison Table Block for Neve Pro
-- Add Block Conditions Extension for Neve Pro
-- Add WooCommerce Extension to Review Block for Neve Pro
-- Add Add to Cart Block for Neve Pro
-- Add Business Hours Block for Neve Pro
-- Add WooCommerce Comparison Table Block for Neve Pro
-- Use date format specified in general WordPress settings
-- Remove duplicate category picker from Posts Block
-- Allow Decimal ratings in Product Review Block
-- Fix Accordion Block Styles
-- Fix blocks not working on Widgets Editor
-- Fix wp_enqueue_script() was called incorrectly error
-- Fix price not removing in Product Review Block
-- Fix Font Awesome Styles loading on all Dynamic Blocks
-- Improve Review Block styles for Mobile Devices
-- CSS loading improvements
-
-
-
-
-##### [Version 1.6.9](https://github.com/Codeinwp/otter-blocks/compare/v1.6.8...v1.6.9) (2021-07-02)
-
-- Fix links in Review Block
-- Fix block defaults not working in Default Section
-- Allow Custom sizes in Posts Block
-- Add filter to Posts Block's query
-- Add Tabs Block
-- Add rel attribute to Review Block's Button
-- Fix CSS Module breaking the editor
-- Add translation support
-
-
-
-
-##### [Version 1.6.8](https://github.com/Codeinwp/otter-blocks/compare/v1.6.7...v1.6.8) (2021-06-11)
-
-* add JS translation compatibility
-
-
-
-
-##### [Version 1.6.7](https://github.com/Codeinwp/otter-blocks/compare/v1.6.6...v1.6.7) (2021-06-11)
-
-* Enhance translation compatibility
-
-
-
-
-##### [Version 1.6.6](https://github.com/Codeinwp/otter-blocks/compare/v1.6.5...v1.6.6) (2021-05-24)
-
-- Fix Product Review Block conflict with WooCommerce
-
-
-
-
-##### [Version 1.6.5](https://github.com/Codeinwp/otter-blocks/compare/v1.6.4...v1.6.5) (2021-05-21)
-
-- Add Product Review Block
-- Make blocks AMP-ready
-- Fix the post excerpt becoming corrupted when containing multi-byte character
-- Fix Section's Overlay Gradient not working
-- Fix Icon List reset on refresh
-- Add Product Review Block
-- Make blocks AMP-ready
-- Fix the post excerpt becoming corrupted when containing multi-byte character
-- Fix Section's Overlay Gradient not working
-- Fix Icon List reset on refresh
-
-
-
-
-##### [Version 1.6.4](https://github.com/Codeinwp/otter-blocks/compare/v1.6.3...v1.6.4) (2021-04-12)
-
-- Fix button not centering
-- Fix custom CSS not working on Leaflet Map Block
-- Fix Columns width resetting
-- Fix Resizer in Columns
-
-
-
-
-##### [Version 1.6.3](https://github.com/Codeinwp/otter-blocks/compare/v1.6.2...v1.6.3) (2021-03-29)
-
-- Fix Columns range crashing in Section Block.
-- Fix Progress Blocks not loading on the front-end.
-
-
-
-
-##### [Version 1.6.2](https://github.com/Codeinwp/otter-blocks/compare/v1.6.1...v1.6.2) (2021-03-26)
-
-- Fix Button Groups alignment
-- Don't enqueue empty CSS
-- Adds new Accordion Block
-- CPT support to Posts Block
-
-
-
-
-##### [Version 1.6.1](https://github.com/Codeinwp/otter-blocks/compare/v1.6.0...v1.6.1) (2021-03-02)
-
-- Fix CSS Extensions causing Reusable Blocks to crash.
-- Add new Map Block
-- Various fixes
-
-
-
-
-#### [Version 1.6.0](https://github.com/Codeinwp/otter-blocks/compare/v1.5.12...v1.6.0) (2021-01-06)
-
-- New Icon List Block.
-- Allow editing text in Progress Bar Block.
-- Reuse Gradient Control from Core.
-- Fix Font Awesome loading when the non-Icon button is being used.
-- Improve Server-Side CSS Method
-
-
-
-
-##### [Version 1.5.12](https://github.com/Codeinwp/otter-blocks/compare/v1.5.11...v1.5.12) (2020-12-12)
-
-- Fix ThemeIsle icons not appearing on WebKit browsers
-
-
-
-
-##### [Version 1.5.11](https://github.com/Codeinwp/otter-blocks/compare/v1.5.10...v1.5.11) (2020-11-25)
-
-- Do not add the background image to the Section when the URL is not set.
-- WordPress 5.6 update chores.
-
-
-
-
-##### [Version 1.5.10](https://github.com/Codeinwp/otter-blocks/compare/v1.5.9...v1.5.10) (2020-11-22)
-
-- Responsive Images in Posts Block.
-- Fix Progress Blocks.
-- Don't enqueue CSS on Classic Editor posts.
-- Change the Highlight tag.
-
-
-
-
-##### [Version 1.5.9](https://github.com/Codeinwp/otter-blocks/compare/v1.5.8...v1.5.9) (2020-11-18)
-
-- WordPress 5.6 compatibility.
-- Fix duplicate posts appear in Posts block when using WPML.
-- Fox Sharing Icons block links.
-- Improve Font Awesome Icons background.
-- Fix Progress Bar percentage animation.
-- Add ThemeIsle Icons to Buttons & Font Awesome Icons Block.
-- Rename Font Awesome Icons Block to Icon Block.
-- Add Circular Progress Block.
-- Allow zero value for borderSize in Button Block.
-
-
-
-
-##### [Version 1.5.8](https://github.com/Codeinwp/otter-blocks/compare/v1.5.7...v1.5.8) (2020-09-14)
-
-- Add Lottie Animations Block.
-- Add Progress Bar Block.
-- Prevent old custom CSS from being cached.
-- Fix Slider in Section's Vertical Alignment on AMP.
-- Consensual Tracking Data.
-
-
-
-
-##### [Version 1.5.7](https://github.com/Codeinwp/otter-blocks/compare/v1.5.6...v1.5.7) (2020-08-12)
-
-- Fix Button Group Block borders
-- Fix Plugin Card failing with additional attributes
-- Fix permission callback missing in REST API Route
-
-
-
-
-##### [Version 1.5.6](https://github.com/Codeinwp/otter-blocks/compare/v1.5.5...v1.5.6) (2020-08-03)
-
-- Button Group Improvements
-- Fixed Caption field missing from Slider Block
-- Image management in Slider & Gallery Block
-- Fix issue with CSS inline loading twice
-- Fix Posts Block offset bug
-- Remove default font size from Posts Block
-- Improve Animation Picker
-
-
-
-
-##### [Version 1.5.5](https://github.com/Codeinwp/otter-blocks/compare/v1.5.4...v1.5.5) (2020-06-22)
-
-- Store images locally when importing templates
-- The improved template import mechanism
-- Fix CSS file is not enqueued for posts outside the main loop
-- Drop support for WordPress 5.3
-- Add backward compatibility to Template Library import
-- Fix category filter in Posts Section
-- Add new Block Templates
-
-
-
-
-##### [Version 1.5.4](https://github.com/Codeinwp/otter-blocks/compare/v1.5.3...v1.5.4) (2020-05-26)
-
-- Use WP File System in Template Import
-- Fix CSS Regeneration
-- Add TinyMCE in Map Marker
-- Use ServerSideLoader in Author & Sharing Blocks
-- Fix Posts Block for Gutenberg 8.0
-- Display template name in Template Library
-- Add AMP Support to Slider Block
-- Remove Section Outline
-- Add AMP Support to Google Maps Block
-- Fix Horizontal/Vertical Alignment
-- Add Template Preview in Template Library
-- Fix issue with Color resetting in Button Group & Section
-- Fix Font Awesome not loading on Index Pages
-- Add two new templates
-- Fix SVG issue in Slider & Section Block
-- Add Menu Icons Module
-
-
-
-
-##### [Version 1.5.3](https://github.com/Codeinwp/otter-blocks/compare/v1.5.2...v1.5.3) (2020-04-10)
-
-- Remove Icons from Range Controls
-- Add ColorIndicator to Color Controls
-- Move Vertical Alignment to Toolbar
-- Fix Button Hover Color not saving
-- Fix Responsive Controls not working
-- Regenerate CSS file if it doesn't exist
-- Update Font Awesome to the latest version
-
-
-
-
-##### [Version 1.5.2](https://github.com/Codeinwp/otter-blocks/compare/v1.5.1...v1.5.2) (2020-03-30)
-
-- Improve Responsiveness Control
-- Remove Popover from Sizing Control
-- Add Button Border to Global Defaults
-- Fix issue with CSS not saving properly
-
-
-
-
-##### [Version 1.5.1](https://github.com/Codeinwp/otter-blocks/compare/v1.5.0...v1.5.1) (2020-03-20)
-
-- Adds compatibility with WordPress 5.4
-- Fixed release issue with 1.5.0
-
-
-
-
-#### [Version 1.5.0](https://github.com/Codeinwp/otter-blocks/compare/v1.4.1...v1.5.0) (2020-03-20)
-
-- Adds compatibility with WordPress 5.4
-- Adds compatibility with WordPress 5.4
-
-
-
-
-##### [Version 1.4.1](https://github.com/Codeinwp/otter-blocks/compare/v1.4.0...v1.4.1) (2020-02-29)
-
-- Fix issue with Button Group & Global Defaults
-- Add Offset to Posts Block
-- Allow custom IDs in Section & Advanced Heading Block
-- Add speed option in Slider Block
-- Fix issue with Overlay Gradient not working in Section Block
-
-
-
-
-#### [Version 1.4.0](https://github.com/Codeinwp/otter-blocks/compare/v1.3.3...v1.4.0) (2020-02-23)
-
-- Add Column Width control to Sidebar
-- Remove Inline CSS from Blocks
-- Fix Block ID Mechanism
-- Add Global Defaults
-- Improve Vertical Alignment to Section Block
-- Add option to disable Arrows/Bullets in Slider Block
-- Option to reverse columns in Section
-- Add theme_support for global defaults
-- Inherit Sizing values
-- Button Group consistency with Button Block
-- Add Anchor field to Advanced Heading Block
-
-
-
-
-##### [Version 1.3.3](https://github.com/Codeinwp/otter-blocks/compare/v1.3.2...v1.3.3) (2020-01-19)
-
-Fix issue with Custom CSS module not working
-
-
-
-
-##### [Version 1.3.2](https://github.com/Codeinwp/otter-blocks/compare/v1.3.1...v1.3.2) (2020-01-10)
-
-- Add Slider Transforms [#142](https://github.com/Codeinwp/otter-blocks/issues/142)
-- Improve Onboarding Experience & New Icons: [#144](https://github.com/Codeinwp/otter-blocks/issues/144)
-- Remove deprecated blocks: [#103](https://github.com/Codeinwp/otter-blocks/issues/103)
-- React Hooks: [#145](https://github.com/Codeinwp/otter-blocks/issues/145)
-- Remove background from Posts Block: [#149](https://github.com/Codeinwp/otter-blocks/issues/149)
-- Allow changing Title tag in Posts Block: [#147](https://github.com/Codeinwp/otter-blocks/issues/147)
-- Change Category from H6 to Span: [#148](https://github.com/Codeinwp/otter-blocks/issues/148)
-- Option to remove the image's box-shadow: [#146](https://github.com/Codeinwp/otter-blocks/issues/146)
-- Fix domino effect in Sizing Component: [#151](https://github.com/Codeinwp/otter-blocks/issues/151)
-- Add tracking toggle to Option Page
-- Use React Hooks for Option Panel
-
-
-
-= 1.3.1 - 2019-12-03  =
-
-* - Added Slider Block
-* - Fixed issue with extensions failing with ServerSideRenderer
-
-
-= 1.3.0 - 2019-11-05  =
-
-* Lazy load Font Awesome Picker to improve load time.
-* Fixed link fetching in WP 5.0
-* Added Style Switcher to Block Controls
-* Added Map Styles to Google Map Block
-* Improved CSS handling for blocks
-* Added block navigator to Section block
-* Added inserter to Button Group
-* Fixed Marker Modal closing on search
-* Fixed sizing control focus
-* Fixed post excerpt now showing in Posts Grid
-* Added meta control options to Posts Block
-* Added improved Gradient Picker control
-
-
-= 1.2.5 - 2019-09-10  =
-
-* Fix AMP compatibility errors.
-
-
-= 1.2.4 - 2019-07-30  =
-
-* Fix Internet Explorer incompatibility
-* Add option to choose Marker color for Google Map block
-* Refreshed "New Marker" UI for Google Map block
-
-
-= 1.2.3 - 2019-05-24  =
-
-* Add BlockInserter
-* Google Maps Improvements
-* Link Component Improvements
-* Fix Sizing Control value type
-
-
-= 1.2.2 - 2019-05-08  =
-
-* Add HTML Anchor to Section Block.
-* Change Default Section setting.
-* Fix resizer styles.
-* Add Link Component.
-* Add Marker button to Map.
-* Remove Padding Resizer.
-* Better UI for Sizing Control.
-* Fix Dynamic CSS not rendering on reusable blocks.
-* Validate blocks before importing.
-
-
-= 1.2.1 - 2019-04-20  =
-
-* Fixed issue with constant not being checked in Otter
-* Added error handling in Backbone functions
-
-= 1.2.0 - 2019-04-18  =
-
-* Added Otter Option page
-* Added update notice on Template Library
-* Redesigned Google Map block
-* Redesigned Post Grid block
-* Removed Handsontable from Chart block
-
-
-= 1.1.5 - 2019-03-08  =
-
-* Redesign Template Library
-* Added Dynamic Column Resizing
-* Added option to Auto Display Columns on Pages
-* Added Section Outline to make it easier to edit sections
-* Added Hover and Link settings to Font Awesome Block
-* Removed Google + icon from Sharing Icons Block
-* Fixed alignment controls
-* Fixed issue with non-editors not being able to use inline CSS and template library.
-* Fixed Button Group errors
-* Fixed Sharing Icons block having wrong icon order in front-end
-
-= 1.1.4 - 2019-01-31  =
-
-* Fix Font Awesome Block update path
-* Show selected font in Google Font picker
-* Fix Font Awesome Picker component being case-sensitive
-
-= 1.1.3 - 2019-01-30  =
-
-* Adds Feedback for Button Group Switch
-* Fixes Post Grid throwing an error
-* Fixes issue with multiple block templates being inserted on the same post
-* Fixes Font Awesome block alignment on the backend
-
-= 1.1.2 - 2019-01-28  =
-
-* Fix Button Group Migration
-* Revamped Font Awesome Icon Picker
-
-= 1.1.1 - 2019-01-25  =
-
-* Added Developer Documentation
-* Added Typography Option to Block Toolbar
-* Fixed Padding Resizer
-* Made Template Library Responsive
-* Fixed Close Icon Alignment on Chrome
-* Fixed Alignment with Span Tag in Advanced Heading Block
-* Added Line Height Option to Button Group
-* Added Option to Collapse Buttons
-* Fixed Icon Issue in Button Group
-* Increased Maximum Font Size Limit
-* Fixed Font Weight Value Error
-* Fixed Fatal Error Caused by Gutenberg Plugin
-* Fixed Unescaped Character Preview in Post Grid
-* Improved Handling of Unique Block IDs
-* Added Left/Right Margin Options to Section Column
-* Added Controls for Responsive Alignment to Advanced Heading Block
-* Fixed Vertical Alignment in Section Block
-* Fixed Alignment Issue in Social Sharing Block
-
-= 1.1.0 - 2019-01-18 =
-* Added Section Block, with Template Library
-* Added Advanced Heading Block
-* Added Button Group Block
-* Deprecated Notice, Click to Tweet, Chart, Accordion, blocks
-
-= 1.0.4 - 2018-12-07 =
-* Fixed dependencies issue
-
-= 1.0.3 - 2018-12-07 =
-* Fixes issue with Posts Grid block displaying wrong author
-
-= 1.0.2 - 2018-12-05 =
-* Fixed Notice Block and Font Awesome Icons
-* Optimized build size
-
-= 1.0.1 - 2018-10-29 =
-* Bug fixed with Google Map block.
-
-= 1.0.0 - 2018-10-17 =
-* Adds docker env.
-* Adds hash back.
+[See changelog for all versions](https://github.com/Codeinwp/otter-blocks/blob/master/CHANGELOG.md).
