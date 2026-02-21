@@ -1,6 +1,6 @@
 /*! dont delete me */
 .foo{  /* ha */}
-@import "https://pearcepcja.github.io/portfolio/wp-content/plugins/otter-blocks/vendor/tubalmartin/cssmin/tests/fixtures/another.css";
+@import "another.css";
 /* I'm empty - delete me */
 empty { ;}
 .test{color:red}

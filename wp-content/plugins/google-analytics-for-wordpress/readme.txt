@@ -1,4 +1,5 @@
-﻿=== MonsterInsights - Google Analytics Dashboard for WordPress (Website Stats Made Easy) ===
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><head><meta charset="UTF-8"></head><body><p>=== MonsterInsights - Google Analytics Dashboard for WordPress (Website Stats Made Easy) ===
 Contributors: chriscct7, smub
 Donate link: http://www.wpbeginner.com/wpbeginner-needs-your-help/
 Tags: WordPress analytics, google analytics, google analytics dashboard, google analytics widget, WooCommerce stats, analytics dashboard, universal google analytics, statistics, tracking, stats, google, google analytics by yoast, ga, monster insights, monsterinsights, universal analytics, web stats, ecommerce, ecommerce tracking
@@ -16,7 +17,7 @@ The best free Google Analytics plugin for WordPress. See how visitors find and u
 
 With over 3 million active installs, MonsterInsights is the most popular Google Analytics plugin for WordPress.
 
-We believe that it's easy to double your traffic and sales when you know exactly how people find and use your website. <a href="https://www.monsterinsights.com/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion" rel="friend" title="MonsterInsights">MonsterInsights</a> shows you the analytics and stats that matter, so you can grow your business with confidence.
+We believe that it's easy to double your traffic and sales when you know exactly how people find and use your website. <a href="https://www.monsterinsights.com/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteversion" rel="friend" title="MonsterInsights">MonsterInsights</a> shows you the analytics and stats that matter, so you can grow your business with confidence.
 
 At MonsterInsights, we make it "effortless" to properly connect your WordPress site with Google Analytics, so you can start making data-driven decisions to grow your business.
 
@@ -28,14 +29,14 @@ Simply put, MonsterInsights is the most complete Google Analytics plugin for Wor
 
 That's why millions of small businesses and top companies like Microsoft, Bloomberg, FedEx, Yelp, Subway, etc. use MonsterInsights to setup Google Analytics on their WordPress sites.
 
-> <strong>MonsterInsights Pro</strong><br />
-> This plugin is the lite version of MonsterInsights Pro plugin that comes with all the tracking features you will ever need including events tracking, ecommerce tracking, custom dimensions tracking, page speed reports, popular post tracking, custom dimensions, affiliate link tracking, video tracking and tons more. <a href="https://www.monsterinsights.com/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion" rel="friend" title="MonsterInsights">Click here to purchase the best premium Google Analytics plugin for WordPress now!</a>
+&gt; <strong>MonsterInsights Pro</strong><br>
+&gt; This plugin is the lite version of MonsterInsights Pro plugin that comes with all the tracking features you will ever need including events tracking, ecommerce tracking, custom dimensions tracking, page speed reports, popular post tracking, custom dimensions, affiliate link tracking, video tracking and tons more. <a href="https://www.monsterinsights.com/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteversion" rel="friend" title="MonsterInsights">Click here to purchase the best premium Google Analytics plugin for WordPress now!</a>
 
 We took the pain out of installing Google Analytics in WordPress and made it easy. Here's why over 3 million smart business owners, designers, and developers love MonsterInsights, and you will too!
 
 https://www.youtube.com/watch?v=4Y8TGGkdcGY
 
-= Quick & Easy Google Analytics Setup =
+= Quick &amp; Easy Google Analytics Setup =
 
 Properly setting up Google Analytics is complicated. You have to either hire a developer or learn how to add advanced code snippets to your website in many different areas. This process can take days or weeks...and can even break your website!
 
@@ -47,8 +48,8 @@ We keep up with all Google Analytics updates, including the new Google Analytics
 
 See what one business owner is saying about MonsterInsights:
 
->It just works. Really easy way to insert Google Analytics tracking code and keep it there when switching themes. No need to copy/paste code anywhere. This is the best way to handle Google Analytics in WordPress.<br>
-> Steven Gliebe
+&gt;It just works. Really easy way to insert Google Analytics tracking code and keep it there when switching themes. No need to copy/paste code anywhere. This is the best way to handle Google Analytics in WordPress.<br>
+&gt; Steven Gliebe
 
 = Google Analytics Dashboard + Real Time Stats =
 Our goal at MonsterInsights is to make Google Analytics easy and accessible for everyone.
@@ -83,8 +84,8 @@ We currently use MonsterInsights on all our portfolio companies which include bo
 
 That's why we can confidently say that MonsterInsights is the ultimate Google Analytics Shortcut for seeing the stats that matter and making data-driven decisions to grow your business.
 
->I love being able to drill down into the analytics via the reporting feature. I have the PRO version and it makes a big difference what you can analyze. I'm glad that I can integrate with Pretty Links too!<br>
->Kim Beasley - MonsterInsights user
+&gt;I love being able to drill down into the analytics via the reporting feature. I have the PRO version and it makes a big difference what you can analyze. I'm glad that I can integrate with Pretty Links too!<br>
+&gt;Kim Beasley - MonsterInsights user
 
 = Google Analytics Enhanced Ecommerce Tracking Made Easy =
 
@@ -138,8 +139,8 @@ We also offer 1-click Google Analytics integration with Facebook Instant Article
 
 At MonsterInsights, we always stay ahead of the curve in helping you integrate WordPress with the latest Google Analytics tracking features.
 
->Analytics for PROs! This plugin brings it all, great features and helpful info to easily see what you are doing.<br>
-> Frank van der Sluijs
+&gt;Analytics for PROs! This plugin brings it all, great features and helpful info to easily see what you are doing.<br>
+&gt; Frank van der Sluijs
 
 = Google Affiliate Link Tracking =
 
@@ -177,8 +178,8 @@ MonsterInsights' Custom Dimensions addon allows you to push WordPress analytics 
 
 Simply put, MonsterInsights allow you to take full advantage of all the powerful Google Analytics features.
 
->I like how simple it is for client users and how I can turn on the advanced features for myself to get all the details right.<br>
-> Skip Shean
+&gt;I like how simple it is for client users and how I can turn on the advanced features for myself to get all the details right.<br>
+&gt; Skip Shean
 
 = Track Both Google Analytics 3 and Google Analytics 4 =
 Help future-proof your website's analytics with MonsterInsights Dual Tracking. With our dual analytics tracking, you can easily use both Google Analytics 3 and Google Analytics 4 without any special coding or configuration.
@@ -241,10 +242,10 @@ After reading this exhaustive feature list, you can probably imagine why Monster
 
 Give MonsterInsights a try.
 
-Want to unlock even more features? <a href="?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion" rel="friend">Upgrade to our Pro version</a>.
+Want to unlock even more features? <a href="https://pearcepcja.github.io/portfolio/wp-content/plugins/google-analytics-for-wordpress/readme.txt?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteversion" rel="friend">Upgrade to our Pro version</a>.
 
->Simple, yet powerful. Amazing piece of plugin, does exactly what expected and even more.<br>
-> Matt Jaworski
+&gt;Simple, yet powerful. Amazing piece of plugin, does exactly what expected and even more.<br>
+&gt; Matt Jaworski
 
 = Popular Google Analytics Tutorials =
 
@@ -264,7 +265,7 @@ This plugin is created by <a href="https://twitter.com/chriscct7" rel="friend" t
 
 = Branding Guidelines =
 
-MonsterInsights&reg; is a registered trademark of MonsterInsights LLC. When writing about the Google Analytics for WordPress plugin by MonsterInsights, please make sure to uppercase the first letters of both word.
+MonsterInsights® is a registered trademark of MonsterInsights LLC. When writing about the Google Analytics for WordPress plugin by MonsterInsights, please make sure to uppercase the first letters of both word.
 
 * MonsterInsights (correct)
 * Monster Insights (incorrect)
@@ -278,7 +279,7 @@ If you like this plugin, then consider checking out our other projects:
 * <a href="http://optinmonster.com/" rel="friend" title="OptinMonster">OptinMonster</a> - Get More Email Subscribers
 * <a href="https://wpforms.com/" rel="friend" title="WPForms">WPForms</a> - Best WordPress Contact Form Plugin
 * <a href="https://aioseo.com/" rel="friend" title="AIOSEO">AIOSEO</a> - The original WordPress SEO plugin to help you rank higher in search results (trusted by over 2 million sites)
-* <a href="https://www.seedprod.com/" rel="friend" title="SeedProd">SeedProd</a> - Most popular coming soon & maintenance mode plugin for WordPress
+* <a href="https://www.seedprod.com/" rel="friend" title="SeedProd">SeedProd</a> - Most popular coming soon &amp; maintenance mode plugin for WordPress
 * <a href="https://wpmailsmtp.com/" rel="friend" title="WP Mail SMTP">WP Mail SMTP</a> - Improve email deliverability for your contact form with the most popular SMTP plugin for WordPress
 * <a href="https://rafflepress.com/" rel="friend" title="RafflePress">RafflePress</a> - Best WordPress giveaway and contest plugin to grow traffic and social followers
 * <a href="https://smashballoon.com/" rel="friend" title="Smash Balloon">Smash Balloon</a> - #1 social feeds plugin for WordPress - display social media content in WordPress without code
@@ -295,7 +296,7 @@ You can also learn about other <a href="http://www.wpbeginner.com/category/plugi
 1. Install Google Analytics for WordPress by MonsterInsights either via the WordPress.org plugin repository or by uploading the files to your server. (See instructions on <a href="http://www.wpbeginner.com/beginners-guide/step-by-step-guide-to-install-a-wordpress-plugin-for-beginners/" rel="friend">how to install a WordPress plugin</a>)
 2. Activate Google Analytics for WordPress by MonsterInsights.
 3. Navigate to the Insights tab in your WordPress admin menu and configure the plugin.
-4. Want more features? <a href="https://www.monsterinsights.com/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion">Purchase MonsterInsights Pro</a>!
+4. Want more features? <a href="https://www.monsterinsights.com/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteversion">Purchase MonsterInsights Pro</a>!
 
 == Changelog ==
 = 8.10.1: Nov 09, 2022 =
@@ -433,8 +434,8 @@ Fix: We fixed an error reported by users using older versions of PHP.
 - Fix: We fixed an issue that caused the bounce rate box to appear twice on the dashboard widget.
 
 = 8.0.0: September 14, 2021 =
-- New: Full Google Analytics v4 support! After working very closely with the Google Analytics team for many months, we're excited to unveil full support for Google's newest version of Google Analytics. Google Analytics 4 (GA4) is the latest version of Google’s web analytics platform, and it can track both websites and apps in the same property. It also has some new reporting features and can give you better, more in-depth insights into how users are interacting with your website. We've taken the time to ensure that users who run GAv4 can do so effortlessly, for example by ensuring your events from GAv3 will work the same in GAv4 without having to touch any code or configuration. You can learn all about GAv4 and MonsterInsights on our [announcement blog post](https://www.monsterinsights.com/introducing-google-analytics-4-dual-analytics-tracking-for-wordpress/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion).
-- New: GAv3 + GAv4 Dual Tracking support. We're also excited to announce our exclusive dual-tracking feature. This feature lets you to track your site visitors to both a Google Analytics v3 (Universal) and a Google Analytics v4 (GAv4) property at the same time, which allows you to take advantage of the new GAv4 features without having to sacrifice your historical data. You can [learn more](https://www.monsterinsights.com/introducing-google-analytics-4-dual-analytics-tracking-for-wordpress/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion) about this MonsterInsights exclusive feature on our [site](https://www.monsterinsights.com/introducing-google-analytics-4-dual-analytics-tracking-for-wordpress/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion).
+- New: Full Google Analytics v4 support! After working very closely with the Google Analytics team for many months, we're excited to unveil full support for Google's newest version of Google Analytics. Google Analytics 4 (GA4) is the latest version of Google’s web analytics platform, and it can track both websites and apps in the same property. It also has some new reporting features and can give you better, more in-depth insights into how users are interacting with your website. We've taken the time to ensure that users who run GAv4 can do so effortlessly, for example by ensuring your events from GAv3 will work the same in GAv4 without having to touch any code or configuration. You can learn all about GAv4 and MonsterInsights on our [announcement blog post](https://www.monsterinsights.com/introducing-google-analytics-4-dual-analytics-tracking-for-wordpress/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteversion).
+- New: GAv3 + GAv4 Dual Tracking support. We're also excited to announce our exclusive dual-tracking feature. This feature lets you to track your site visitors to both a Google Analytics v3 (Universal) and a Google Analytics v4 (GAv4) property at the same time, which allows you to take advantage of the new GAv4 features without having to sacrifice your historical data. You can [learn more](https://www.monsterinsights.com/introducing-google-analytics-4-dual-analytics-tracking-for-wordpress/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteversion) about this MonsterInsights exclusive feature on our [site](https://www.monsterinsights.com/introducing-google-analytics-4-dual-analytics-tracking-for-wordpress/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteversion).
 
 = 7.18.0: July 15, 2021 =
 - Tweak: We updated the way we load the main tracking script to improve page load performance.
@@ -471,7 +472,7 @@ Fix: We fixed an error reported by users using older versions of PHP.
 - New: Upgrade to the Global Site Tag (gtag.js) tracking code without having to worry about your existing events or integrations using analytics.js code. In this version you can manually opt-in to the gtag.js tracking code that will be the standard in a future release.
 - Fix: Improved compatibility for older PHP versions with our Popular Posts feature.
 
-**See our <a href="https://www.monsterinsights.com/changelog?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion" target="_blank">changelog</a> for previous releases.**
+**See our <a href="https://www.monsterinsights.com/changelog?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteversion" target="_blank">changelog</a> for previous releases.**
 
 == Frequently Asked Questions ==
 
@@ -511,7 +512,7 @@ MonsterInsights loads code in WordPress header because it makes sure that you ha
 As of version 7.18, Pro users of MontersInsights can use a locally hosted version of Google Analytics (gtag) which helps with tracking data accuracy. This version can also improve the performance of your website, compared to hosting the script on Google Analytics servers.
 
 = Can I hide Google Analytics from tracking Administrators and Editors? =
-Yes. By default we do not send data to Google Analytics for logged-in WordPress administrators and editors. You can add easily <a href=â€https://www.monsterinsights.com/docs/exclude-user-roles-from-google-analytics-trackingâ€ rel=â€friendâ€>block additional user roles.</a>
+Yes. By default we do not send data to Google Analytics for logged-in WordPress administrators and editors. You can add easily <a href="%C3%A2%E2%82%AC%C2%9Dhttps://www.monsterinsights.com/docs/exclude-user-roles-from-google-analytics-tracking%C3%A2%E2%82%AC%C2%9D" rel="â€&#157;friendâ€&#157;">block additional user roles.</a>
 
 = How does MonsterInsights help with Google Analytics GDPR compliance? =
 MonsterInsights helps make Google Analytics GDPR compliance easier for business owners.
@@ -554,7 +555,7 @@ It comes with advanced permission control, sample rate control, and other option
 
 = Does MonsterInsights support Google Analytics v4 (GAv4) =
 
-Yes, we fully support Google Analytics v4 (GAv4) properties as well as GAv3 (Universal) properties. In fact, you can track your site to both at the same time using [our exclusive dual tracking feature](https://www.monsterinsights.com/introducing-google-analytics-4-dual-analytics-tracking-for-wordpress/?utm_source=wprepo&utm_medium=link&utm_campaign=liteversion).
+Yes, we fully support Google Analytics v4 (GAv4) properties as well as GAv3 (Universal) properties. In fact, you can track your site to both at the same time using [our exclusive dual tracking feature](https://www.monsterinsights.com/introducing-google-analytics-4-dual-analytics-tracking-for-wordpress/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteversion).
 
 
 == Screenshots ==
@@ -570,3 +571,4 @@ Yes, we fully support Google Analytics v4 (GAv4) properties as well as GAv3 (Uni
 9. Search console report (Pro feature)
 10. Custom dimensions tracking (Pro feature)
 11. Custom Dimensions report (Pro feature)
+</p></body></html>

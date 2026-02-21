@@ -197,7 +197,7 @@
         "display_name": "Copyright Text",
         "type": "text"
       },
-      "default_value": "<p>Original | Powered by <a href='http://wordpress.org' rel='nofollow'>WordPress</a></p>"
+      "default_value": "<p>Original | Powered by <a href='http://wordpress.org/' rel='nofollow'>WordPress</a></p>"
     }
   ]
 }

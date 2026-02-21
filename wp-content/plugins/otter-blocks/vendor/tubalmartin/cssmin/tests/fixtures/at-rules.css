@@ -95,9 +95,9 @@ However, this is the job of the author/application.
 The compressor should not get involved.
 */
 @charset "another one";
-@import 'https://pearcepcja.github.io/portfolio/wp-content/plugins/otter-blocks/vendor/tubalmartin/cssmin/tests/fixtures/custom.css';
+@import 'custom.css';
 @IMPORT url("chrome://communicator/skin/");
-@import "https://pearcepcja.github.io/portfolio/wp-content/plugins/otter-blocks/vendor/tubalmartin/cssmin/tests/fixtures/common.css" screen, projection;
+@import "common.css" screen, projection;
 @import url('https://pearcepcja.github.io/portfolio/wp-content/plugins/otter-blocks/vendor/tubalmartin/cssmin/tests/fixtures/landscape.css') screen and (orientation:landscape);
 @namespace url(http://www.w3.org/1999/xhtml);
 @font-face {

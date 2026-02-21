@@ -1,4 +1,5 @@
-=== Orbit Fox by ThemeIsle ===
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><head><meta charset="UTF-8"></head><body><p>=== Orbit Fox by ThemeIsle ===
 Contributors: themeisle, codeinwp, rodicaelena, baicusandrei, hardeepasrani
 Tags: widget, admin, widgets, sharing, sections, themes, stock photos, custom icons, icons, menu icons, stock, templates, header, footer, scripts, custom fonts 
 Requires at least: 4.7
@@ -12,7 +13,7 @@ This swiss-knife plugin comes with a quality template library, menu/sharing icon
 
 ## Description ##
 
-Extend your theme functionality with <a href="https://orbitfox.com/" rel="nofollow">Orbit Fox</a> with various modules like Social Media Share Buttons & Icons, Custom Menu Icons, Header and Footer Scripts, one click import page templates, page builder addons and free stock featured images.
+Extend your theme functionality with <a href="https://orbitfox.com/" rel="nofollow">Orbit Fox</a> with various modules like Social Media Share Buttons &amp; Icons, Custom Menu Icons, Header and Footer Scripts, one click import page templates, page builder addons and free stock featured images.
 
 https://www.youtube.com/watch?v=YHhK_twfYB8
 
@@ -39,7 +40,7 @@ We've also built some fantastic <a href="http://themeisle.com/wordpress-themes/f
 
 ### How I can get support for this plugin ? ###
 
-You can learn more about Orbit Fox and ask for help by <a href="https://themeisle.com/contact/"  >visiting ThemeIsle website</a>.
+You can learn more about Orbit Fox and ask for help by <a href="https://themeisle.com/contact/">visiting ThemeIsle website</a>.
 
 ### What can I do with this plugin ###
 This plugin extends the features of your sites by adding numerous features.
@@ -773,3 +774,4 @@ New Header/Footer Scripts module
 = 1.0.0 =
 
 * First version of the plugin
+</p></body></html>

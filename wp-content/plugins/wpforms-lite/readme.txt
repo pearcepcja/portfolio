@@ -1,4 +1,5 @@
-=== Contact Form by WPForms - Drag & Drop Form Builder for WordPress ===
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><head><meta charset="UTF-8"></head><body><p>=== Contact Form by WPForms - Drag &amp; Drop Form Builder for WordPress ===
 Contributors: wpforms, jaredatch, smub, slaFFik
 Tags: contact form, contact form plugin, forms, form builder, custom form, contact button, contact me, custom contact form, form manager, form, forms builder, forms creator, captcha, recaptcha, Akismet, email form, web form, feedback form, payment form, survey form, donation form, email submit form, message form, mailchimp, mailchimp form, aweber, aweber form, paypal, paypal form, stripe, stripe form, getresponse, getresponse form, email subscription, contact form widget, user registration form, wordpress registration, wordpress login form, feedback
 Requires at least: 4.9
@@ -7,13 +8,13 @@ Stable tag: 1.7.2.1
 Requires PHP: 5.5
 License: GNU General Public License v2.0 or later
 
-The best WordPress contact form plugin. Drag & Drop online form builder that helps you create beautiful contact forms with just a few clicks.
+The best WordPress contact form plugin. Drag &amp; Drop online form builder that helps you create beautiful contact forms with just a few clicks.
 
 == Description ==
 
 = WordPress Contact Form Builder Plugin =
 
-We believe that you shouldn't have to hire a developer to create a WordPress contact form. That's why we built <a href="https://wpforms.com/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend" title="WPForms">WPForms</a>, a drag & drop WordPress form builder that's EASY and POWERFUL.
+We believe that you shouldn't have to hire a developer to create a WordPress contact form. That's why we built <a href="https://wpforms.com/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend" title="WPForms">WPForms</a>, a drag &amp; drop WordPress form builder that's EASY and POWERFUL.
 
 WPForms allows you to create beautiful contact forms, feedback form, subscription forms, payment forms, and other types of forms for your site in minutes, not hours!
 
@@ -25,21 +26,21 @@ WPForms is a 100% mobile responsive contact form solution, so your contact forms
 
 WPForms' contact forms are also highly optimized for web and server performance because we understand the importance of speed when it comes to SEO, marketing, and conversion. We can honestly say that WPForms is one of the fastest WordPress contact form builder plugins in the world.
 
-> <strong>WPForms Pro</strong><br />
-> This plugin is the lite version of the WPForms Pro plugin that comes with all the contact form features you will ever need including email subscription forms, multi-page contact forms, file uploads, conditional logic, payment integrations, form templates, and tons more. <a href="https://wpforms.com/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend" title="WPForms">Click here to purchase the best premium WordPress contact form plugin now!</a>
+&gt; <strong>WPForms Pro</strong><br>
+&gt; This plugin is the lite version of the WPForms Pro plugin that comes with all the contact form features you will ever need including email subscription forms, multi-page contact forms, file uploads, conditional logic, payment integrations, form templates, and tons more. <a href="https://wpforms.com/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend" title="WPForms">Click here to purchase the best premium WordPress contact form plugin now!</a>
 
 We took the pain out of creating contact forms and made it easy. Here's why smart business owners, designers, and developers love WPForms, and you will too!
 
-https://www.youtube.com/watch?v=eiQ3viAGung&rel=0
+https://www.youtube.com/watch?v=eiQ3viAGung&amp;rel=0
 
-= Drag & Drop Contact Form Builder =
+= Drag &amp; Drop Contact Form Builder =
 
-We were tired of the bloated and buggy contact form builder plugins. That's why we built WPForms to adapt to your workflow and allow you to create custom contact forms in minutes. By using our easy to use <a href="https://wpforms.com/features/drag-drop-online-form-builder/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">drag and drop online form builder</a>, you can easily add custom form fields, rearrange them, and basically create a complete contact form in 5 minutes or less.
+We were tired of the bloated and buggy contact form builder plugins. That's why we built WPForms to adapt to your workflow and allow you to create custom contact forms in minutes. By using our easy to use <a href="https://wpforms.com/features/drag-drop-online-form-builder/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">drag and drop online form builder</a>, you can easily add custom form fields, rearrange them, and basically create a complete contact form in 5 minutes or less.
 
 But don't just take our word. See what one of the WordPress experts are saying:
 
-> WPForms is by far the <strong>easiest form plugin to use</strong>. My clients love WPForms and it's one of the few plugins they can use without any training. As a developer I appreciate how fast, modern, clean and extensible it is.<br>
-> Bill Erickson - Expert WordPress Consultant
+&gt; WPForms is by far the <strong>easiest form plugin to use</strong>. My clients love WPForms and it's one of the few plugins they can use without any training. As a developer I appreciate how fast, modern, clean and extensible it is.<br>
+&gt; Bill Erickson - Expert WordPress Consultant
 
 = Pre-built Form Templates =
 
@@ -49,9 +50,9 @@ Because every other WordPress contact form builder plugin requires you to build 
 
 Whether you're looking to create a simple contact form, marketing form, request a quote form, donation form, payment order form, registration form, or a subscription form, we have a form template for you inside our contact form builder.
 
-WPForms comes with <a href="https://wpforms.com/features/form-templates/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">pre-built form templates</a> to help you save time. You can add, remove, or re-arrange fields as necessary.
+WPForms comes with <a href="https://wpforms.com/features/form-templates/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">pre-built form templates</a> to help you save time. You can add, remove, or re-arrange fields as necessary.
 
-See <a href="https://wpforms.com/templates/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">300+ Pre-Made WPForms Form Template Demo</a>
+See <a href="https://wpforms.com/templates/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">300+ Pre-Made WPForms Form Template Demo</a>
 
 = Mobile Ready, SEO Friendly and Optimized for Speed =
 
@@ -59,7 +60,7 @@ WPForms' contact forms are 100% responsive and mobile-friendly by default. We al
 
 You can embed your contact form on any page with optimized title and description. With the speed and proper formatting, WPForms is also one of the most SEO friendly contact form plugin.
 
-= All the Fields & Features that You Need to Succeed =
+= All the Fields &amp; Features that You Need to Succeed =
 
 From star ratings to file uploads to multi-page contact forms with progress bar, we have all the fields you need.
 
@@ -69,14 +70,14 @@ The best part is, you can do it all without hiring a developer.
 
 See what one business owner has to say about WPForms' contact form:
 
->As a business owner, time is my most valuable asset. WPForms allow me to create smart contact forms with just a few clicks. With their pre-built form templates and the drag & drop builder, I can create a new form that works in less than 2 minutes without writing a single line of code. Well worth the investment.<br>
-> David Henzel - Co-founder of MaxCDN
+&gt;As a business owner, time is my most valuable asset. WPForms allow me to create smart contact forms with just a few clicks. With their pre-built form templates and the drag &amp; drop builder, I can create a new form that works in less than 2 minutes without writing a single line of code. Well worth the investment.<br>
+&gt; David Henzel - Co-founder of MaxCDN
 
-= Surveys & Polls =
+= Surveys &amp; Polls =
 
 Along with contact form, you can also use WPForms to create surveys and polls.
 
-Our <a href="https://wpforms.com/addons/surveys-and-polls-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">WordPress Survey plugin addon</a> comes with smart survey fields including likert scale, star ratings, multiple choice, Net Promoter Score (NPS), and more, so you can create custom survey forms like Survey Monkey (without the high costs).
+Our <a href="https://wpforms.com/addons/surveys-and-polls-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">WordPress Survey plugin addon</a> comes with smart survey fields including likert scale, star ratings, multiple choice, Net Promoter Score (NPS), and more, so you can create custom survey forms like Survey Monkey (without the high costs).
 
 WPForms offer the best-in class survey reporting. You can use our interactive reports to customize the graphs, export them for your presentations, and even display the aggregate results to your users.
 
@@ -84,7 +85,7 @@ The best part about WPForms survey reports is that it can retroactively work on 
 
 Thousands of businesses love WPForms surveys for creating employee feedback form, customer feedback form, online petition form, and more.
 
-You can also use the surveys & polls addon to easily create a poll on your site. To save you time when creating a user poll, we have added a built-in poll forms template. Our poll feature offers real-time reports, so you can share poll results with the user immediately after they submit their vote.
+You can also use the surveys &amp; polls addon to easily create a poll on your site. To save you time when creating a user poll, we have added a built-in poll forms template. Our poll feature offers real-time reports, so you can share poll results with the user immediately after they submit their vote.
 
 Just like the contact form, you can embed your surveys and polls inside any post, page, or widget area in WordPress.
 
@@ -112,14 +113,14 @@ We understand that sometimes you may need to create a contact form that require 
 
 You can do all of this while still using the same easy-to-use contact form builder that's loved by over 5 million users.
 
->I am so impressed with this plugin. I decided to give it a shot over some of the other form plugins, and I am so glad I did. It works well, is so easy to use and customize. The support is amazing on top of it all. I got the pro version because I was so pleased. Highly recommend.<br>
-> Micky73 - WordPress user
+&gt;I am so impressed with this plugin. I decided to give it a shot over some of the other form plugins, and I am so glad I did. It works well, is so easy to use and customize. The support is amazing on top of it all. I got the pro version because I was so pleased. Highly recommend.<br>
+&gt; Micky73 - WordPress user
 
 = Forms that are Optimized for Conversion and Results =
 
-With our Form Pages addon, you can create distraction-free custom form landing pages like Google Forms and Wufoo right inside WordPress, so you can increase conversions without the high costs (<a href="https://wpforms.com/addons/form-pages-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">See Form Pages Demo</a>).
+With our Form Pages addon, you can create distraction-free custom form landing pages like Google Forms and Wufoo right inside WordPress, so you can increase conversions without the high costs (<a href="https://wpforms.com/addons/form-pages-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">See Form Pages Demo</a>).
 
-To improve form completion rate, we created Conversational Forms&reg; which helps you make your generic feedback form and other custom contact forms feel more human by adding an interactive form layout. Our conversational forms are similar to Typeform without the high subscription costs (<a href="https://wpforms.com/addons/conversational-forms-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">See Conversational Forms Demo</a>).
+To improve form completion rate, we created Conversational Forms® which helps you make your generic feedback form and other custom contact forms feel more human by adding an interactive form layout. Our conversational forms are similar to Typeform without the high subscription costs (<a href="https://wpforms.com/addons/conversational-forms-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">See Conversational Forms Demo</a>).
 
 WPForms also has other conversion optimization features such as our smart form logic that lets you create dynamic contact forms where fields change based on user's answer, multi-page contact forms with progress bar, and other advanced contact forms.
 
@@ -137,53 +138,53 @@ Since contact forms are essential for marketing, WPForms is a must have plugin f
 
 = Full WPForms Feature List =
 
-* <a href="https://wpforms.com/features/drag-drop-online-form-builder/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Online Form Builder</a> - Our powerful drag & drop contact form builder allows you to easily create WordPress contact forms and other online forms in just a few minutes without writing any code.
+* <a href="https://wpforms.com/features/drag-drop-online-form-builder/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Online Form Builder</a> - Our powerful drag &amp; drop contact form builder allows you to easily create WordPress contact forms and other online forms in just a few minutes without writing any code.
 * 100% Responsive - Mobile Friendly contact forms.
 * GDPR Friendly - Make your contact form GDPR compatible with just a few clicks.
-* <a href="https://wpforms.com/features/form-templates/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Form Templates</a> - Use our pre-built form templates to save time. Never start from scratch again (see all <a href="https://wpforms.com/templates/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">form templates demos</a>).
-* <a href="https://wpforms.com/features/spam-protection/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Spam Protection</a> - WPForms provides smart anti-spam protection out-of-the-box, plus direct integrations with hCaptcha and Google reCAPTCHA.
-* <a href="https://wpforms.com/features/instant-notifications/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Instant Form Notification</a> - Quickly respond to incoming inquiries with our instant contact form notification system.
-* <a href="https://wpforms.com/features/form-confirmation/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Smart Form Confirmation</a> - Show a custom success message, or redirect users to a custom thank you page.
-* <a href="https://wpforms.com/features/file-uploads/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">File Uploads</a> - Collect files and media through your contact forms with File Uploads.
-* <a href="https://wpforms.com/features/multi-page-forms/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Multi-Page Forms</a> - Split long forms into multiple pages with progress bar to improve user experience.
-* <a href="https://wpforms.com/features/conditional-logic/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Smart Conditional Logic</a> - Show or hide fields and contact form sections based on user behavior.
-* <a href="https://wpforms.com/addons/signature-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Signature Forms</a> - Create signature forms or add the signature field to your contact form, application form, booking form, etc.
-* <a href="https://wpforms.com/addons/user-registration-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">User Registration Forms</a> - Create custom user registration form and custom login form in WordPress.
-* <a href="https://wpforms.com/addons/post-submissions-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Post Submissions</a> - Collect user-submitted content in WordPress with our front-end post submission form. Great for guest posts, testimonials, business directory, listings, etc.
-* <a href="https://wpforms.com/addons/geolocation-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Geolocation</a> - Display location information about your users.
-* <a href="https://wpforms.com/addons/custom-catpcha-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Custom Captchas</a> - Create custom captchas for your contact form.
-* <a href="https://wpforms.com/addons/surveys-and-polls-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Surveys and Polls</a> - Easily create surveys forms and analyze the data with interactive reports.
-* <a href="https://wpforms.com/addons/form-abandonment-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Form Abandonment</a> - Unlock more leads and grow your business with partial-form submission.
-* <a href="https://wpforms.com/addons/form-locker-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Form Locker</a> - Manage form permissions and add access control rules including password-protected forms, members only forms, limit contact form entry per person, close form after specific date / time, etc.
-* <a href="https://wpforms.com/addons/offline-forms-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Offline Forms</a> - Let your visitors save their entered data offline and submit when their internet connection is restored.
-* <a href="https://wpforms.com/addons/form-pages-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Form Landing Pages</a> - Create "distraction-free" form landing pages to boost conversions. Great Google Forms and Wufoo alternative.
-* <a href="https://wpforms.com/addons/conversational-forms-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Conversational Forms</a> - Interactive form layout that makes your form feels more human and boost overall completion rate. Great for surveys and registration forms. Perfect Typeform alternative for WordPress without the high costs.
-* <a href="https://wpforms.com/addons/webhooks-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Webhooks</a> - Send form entry data to secondary tools and external services. No code required, and no need for a third party connector.
-* <a href="https://wpforms.com/addons/user-journey-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">User Journey Reporting</a> - Discover the steps your visitors take before they submit your forms. Right in the WordPress dashboard, you can easily see the content that's driving the most valuable form conversions.
-* <a href="https://wpforms.com/addons/save-and-resume-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Save and Resume Forms</a> - Allows your visitors to save their progress while filling in your forms. When they're ready to continue, they can restore their entry with a click.
+* <a href="https://wpforms.com/features/form-templates/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Form Templates</a> - Use our pre-built form templates to save time. Never start from scratch again (see all <a href="https://wpforms.com/templates/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">form templates demos</a>).
+* <a href="https://wpforms.com/features/spam-protection/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Spam Protection</a> - WPForms provides smart anti-spam protection out-of-the-box, plus direct integrations with hCaptcha and Google reCAPTCHA.
+* <a href="https://wpforms.com/features/instant-notifications/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Instant Form Notification</a> - Quickly respond to incoming inquiries with our instant contact form notification system.
+* <a href="https://wpforms.com/features/form-confirmation/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Smart Form Confirmation</a> - Show a custom success message, or redirect users to a custom thank you page.
+* <a href="https://wpforms.com/features/file-uploads/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">File Uploads</a> - Collect files and media through your contact forms with File Uploads.
+* <a href="https://wpforms.com/features/multi-page-forms/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Multi-Page Forms</a> - Split long forms into multiple pages with progress bar to improve user experience.
+* <a href="https://wpforms.com/features/conditional-logic/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Smart Conditional Logic</a> - Show or hide fields and contact form sections based on user behavior.
+* <a href="https://wpforms.com/addons/signature-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Signature Forms</a> - Create signature forms or add the signature field to your contact form, application form, booking form, etc.
+* <a href="https://wpforms.com/addons/user-registration-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">User Registration Forms</a> - Create custom user registration form and custom login form in WordPress.
+* <a href="https://wpforms.com/addons/post-submissions-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Post Submissions</a> - Collect user-submitted content in WordPress with our front-end post submission form. Great for guest posts, testimonials, business directory, listings, etc.
+* <a href="https://wpforms.com/addons/geolocation-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Geolocation</a> - Display location information about your users.
+* <a href="https://wpforms.com/addons/custom-catpcha-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Custom Captchas</a> - Create custom captchas for your contact form.
+* <a href="https://wpforms.com/addons/surveys-and-polls-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Surveys and Polls</a> - Easily create surveys forms and analyze the data with interactive reports.
+* <a href="https://wpforms.com/addons/form-abandonment-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Form Abandonment</a> - Unlock more leads and grow your business with partial-form submission.
+* <a href="https://wpforms.com/addons/form-locker-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Form Locker</a> - Manage form permissions and add access control rules including password-protected forms, members only forms, limit contact form entry per person, close form after specific date / time, etc.
+* <a href="https://wpforms.com/addons/offline-forms-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Offline Forms</a> - Let your visitors save their entered data offline and submit when their internet connection is restored.
+* <a href="https://wpforms.com/addons/form-pages-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Form Landing Pages</a> - Create "distraction-free" form landing pages to boost conversions. Great Google Forms and Wufoo alternative.
+* <a href="https://wpforms.com/addons/conversational-forms-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Conversational Forms</a> - Interactive form layout that makes your form feels more human and boost overall completion rate. Great for surveys and registration forms. Perfect Typeform alternative for WordPress without the high costs.
+* <a href="https://wpforms.com/addons/webhooks-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Webhooks</a> - Send form entry data to secondary tools and external services. No code required, and no need for a third party connector.
+* <a href="https://wpforms.com/addons/user-journey-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">User Journey Reporting</a> - Discover the steps your visitors take before they submit your forms. Right in the WordPress dashboard, you can easily see the content that's driving the most valuable form conversions.
+* <a href="https://wpforms.com/addons/save-and-resume-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Save and Resume Forms</a> - Allows your visitors to save their progress while filling in your forms. When they're ready to continue, they can restore their entry with a click.
 
 = Integrations =
 
-* <a href="https://wpforms.com/addons/paypal-standard-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">PayPal Payment Forms</a> - Create PayPal forms to easily collect payments, donations, and online orders.
-* <a href="https://wpforms.com/addons/stripe-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Stripe Forms</a> - Easily collect credit card payments, donations, and online orders with our Stripe addon.
-* <a href="https://wpforms.com/addons/square-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Square Forms</a> - Accept payments faster, from anywhere with Square's secure payment processing with the Square addon.
-* <a href="https://wpforms.com/addons/authorize-net-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Authorize.Net Forms</a> - Connect your WordPress site with Authorize.Net to collect payments, donations, and online orders.
-* <a href="https://wpforms.com/addons/mailchimp-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Mailchimp Forms</a> - Create Mailchimp newsletter signup forms in WordPress and connect with your contact form to grow your email list.
-* <a href="https://wpforms.com/addons/aweber-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">AWeber Forms</a> - Create AWeber newsletter signup forms in WordPress and connect with your contact form to grow your email list.
-* <a href="https://wpforms.com/addons/campaign-monitor-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Campaign Monitor Forms</a> - Create Campaign Monitor newsletter signup forms in WordPress and connect with your contact form to grow your email list.
-* <a href="https://wpforms.com/addons/getresponse-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">GetResponse Forms</a> - Create GetResponse newsletter signup forms in WordPress and connect with your contact form to grow your email list.
-* <a href="https://wpforms.com/features/constant-contact/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Constant Contact Forms</a> - Create Constant Contact newsletter signup forms in WordPress and connect with your contact form to grow your email list.
-* <a href="https://wpforms.com/addons/drip-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Drip Forms</a> - Create Drip newsletter signup forms in WordPress and connect with your contact form to grow your email list.
-* <a href="https://wpforms.com/addons/activecampaign-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">ActiveCampaign Forms</a> - Add contacts to your ActiveCampaign account, record events, add notes to contacts, and more.
-* <a href="https://wpforms.com/addons/sendinblue-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Sendinblue Forms</a> - Create Sendinblue forms to automate your marketing and engage your subscribers.
-* <a href="https://wpforms.com/addons/salesforce-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Salesforce Forms</a> - Easily send your WordPress form contacts and leads to your Salesforce CRM account.
-* <a href="https://wpforms.com/addons/zapier-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Zapier Addon</a> - Connect your WordPress forms with over 1000+ apps. Route your contact form data to your favorite CRM, email marketing service, etc.
+* <a href="https://wpforms.com/addons/paypal-standard-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">PayPal Payment Forms</a> - Create PayPal forms to easily collect payments, donations, and online orders.
+* <a href="https://wpforms.com/addons/stripe-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Stripe Forms</a> - Easily collect credit card payments, donations, and online orders with our Stripe addon.
+* <a href="https://wpforms.com/addons/square-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Square Forms</a> - Accept payments faster, from anywhere with Square's secure payment processing with the Square addon.
+* <a href="https://wpforms.com/addons/authorize-net-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Authorize.Net Forms</a> - Connect your WordPress site with Authorize.Net to collect payments, donations, and online orders.
+* <a href="https://wpforms.com/addons/mailchimp-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Mailchimp Forms</a> - Create Mailchimp newsletter signup forms in WordPress and connect with your contact form to grow your email list.
+* <a href="https://wpforms.com/addons/aweber-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">AWeber Forms</a> - Create AWeber newsletter signup forms in WordPress and connect with your contact form to grow your email list.
+* <a href="https://wpforms.com/addons/campaign-monitor-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Campaign Monitor Forms</a> - Create Campaign Monitor newsletter signup forms in WordPress and connect with your contact form to grow your email list.
+* <a href="https://wpforms.com/addons/getresponse-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">GetResponse Forms</a> - Create GetResponse newsletter signup forms in WordPress and connect with your contact form to grow your email list.
+* <a href="https://wpforms.com/features/constant-contact/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Constant Contact Forms</a> - Create Constant Contact newsletter signup forms in WordPress and connect with your contact form to grow your email list.
+* <a href="https://wpforms.com/addons/drip-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Drip Forms</a> - Create Drip newsletter signup forms in WordPress and connect with your contact form to grow your email list.
+* <a href="https://wpforms.com/addons/activecampaign-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">ActiveCampaign Forms</a> - Add contacts to your ActiveCampaign account, record events, add notes to contacts, and more.
+* <a href="https://wpforms.com/addons/sendinblue-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Sendinblue Forms</a> - Create Sendinblue forms to automate your marketing and engage your subscribers.
+* <a href="https://wpforms.com/addons/salesforce-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Salesforce Forms</a> - Easily send your WordPress form contacts and leads to your Salesforce CRM account.
+* <a href="https://wpforms.com/addons/zapier-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Zapier Addon</a> - Connect your WordPress forms with over 1000+ apps. Route your contact form data to your favorite CRM, email marketing service, etc.
 
 After reading this feature list, you can probably imagine why WPForms is the best WordPress contact form plugin in the market.
 
 Give WPForms a try.
 
-Want to unlock more features? <a href="https://wpforms.com/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend" title="WPForms">Upgrade to our Pro version</a>.
+Want to unlock more features? <a href="https://wpforms.com/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend" title="WPForms">Upgrade to our Pro version</a>.
 
 = Credits =
 
@@ -191,7 +192,7 @@ This plugin is created by <a href="https://www.jaredatchison.com/" rel="friend" 
 
 = Branding Guideline =
 
-WPForms&reg; is a registered trademark of WPForms LLC. When writing about the contact form plugin by WPForms, please make sure to uppercase the initial 3 letters.
+WPForms® is a registered trademark of WPForms LLC. When writing about the contact form plugin by WPForms, please make sure to uppercase the initial 3 letters.
 
 * WPForms (correct)
 * WP Forms (incorrect)
@@ -204,8 +205,8 @@ If you like this plugin, then consider checking out our other projects:
 
 * <a href="https://optinmonster.com/">OptinMonster</a> - Get More Email Subscribers with the most popular conversion optimization plugin for WordPress.
 * <a href="https://www.monsterinsights.com/">MonsterInsights</a> - See the stats that matter and grow your business with confidence. The best Google Analytics plugin for WordPress.
-* <a href="https://www.seedprod.com/">SeedProd</a> - Create beautiful landing pages with our powerful drag & drop landing page builder.
-* <a href="https://wpmailsmtp.com">WP Mail SMTP</a> - Improve email deliverability for your contact form with the most popular SMTP plugin for WordPress.
+* <a href="https://www.seedprod.com/">SeedProd</a> - Create beautiful landing pages with our powerful drag &amp; drop landing page builder.
+* <a href="https://wpmailsmtp.com/">WP Mail SMTP</a> - Improve email deliverability for your contact form with the most popular SMTP plugin for WordPress.
 * <a href="https://rafflepress.com/">RafflePress</a> - Best WordPress giveaway and contest plugin to grow traffic and social followers.
 * <a href="https://smashballoon.com/">Smash Balloon</a> - #1 social feeds plugin for WordPress - display social media content in WordPress without code.
 * <a href="https://aioseo.com/">AIOSEO</a> - The original WordPress SEO plugin to help you rank higher in search results (trusted by over 2 million sites).
@@ -225,11 +226,11 @@ Visit <a href="https://www.wpbeginner.com/" rel="friend" title="WPBeginner">WPBe
 1. Install WPForms Lite either via the WordPress.org plugin repository or by uploading the files to your server. (See instructions on <a href="https://www.wpbeginner.com/beginners-guide/step-by-step-guide-to-install-a-wordpress-plugin-for-beginners/" rel="friend">how to install a WordPress plugin</a>)
 2. Activate WPForms Lite.
 3. Navigate to the WPForms tab at the bottom of your admin menu and click the "Add New" button to begin creating your new WordPress contact form.
-4. Want more features? <a href="https://wpforms.com/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend" title="WPForms">Purchase the full version of WPForms</a>!
+4. Want more features? <a href="https://wpforms.com/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend" title="WPForms">Purchase the full version of WPForms</a>!
 
 == Screenshots ==
 
-1. WPForms Drag & Drop Online Form Builder
+1. WPForms Drag &amp; Drop Online Form Builder
 2. Adding New Field
 3. Form Preview
 4. Form Settings
@@ -240,15 +241,15 @@ Visit <a href="https://www.wpbeginner.com/" rel="friend" title="WPBeginner">WPBe
 
 = Who should use WPForms? =
 
-WPForms is perfect for business owners, bloggers, designers, developers, photographers, and basically everyone else. If you want to create a custom WordPress form, then you need to use the WPForms drag & drop form builder.
+WPForms is perfect for business owners, bloggers, designers, developers, photographers, and basically everyone else. If you want to create a custom WordPress form, then you need to use the WPForms drag &amp; drop form builder.
 
 = Do I need to have coding skills to use WPForms? =
 
-Absolutely not. You can create and manage forms without any coding knowledge (100% drag & drop form builder). WPForms is the most beginner friendly contact form plugin in the market.
+Absolutely not. You can create and manage forms without any coding knowledge (100% drag &amp; drop form builder). WPForms is the most beginner friendly contact form plugin in the market.
 
 = What type of WordPress forms can I build with WPForms? =
 
-WPForms drag & drop form builder combined with our addons is the most powerful WordPress contact form plugin in the market. Here are some types of WordPress forms you can create:
+WPForms drag &amp; drop form builder combined with our addons is the most powerful WordPress contact form plugin in the market. Here are some types of WordPress forms you can create:
 
 * Simple Contact Forms
 * Job Application Contact Form
@@ -267,7 +268,7 @@ WPForms drag & drop form builder combined with our addons is the most powerful W
 * Volunteer Registration Contact Form
 * Offline Contact Form
 
-To see a full list, visit our <a href="https://wpforms.com/templates/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Form Template Gallery</a> which has over 150+ pre-made contact form templates.
+To see a full list, visit our <a href="https://wpforms.com/templates/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Form Template Gallery</a> which has over 150+ pre-made contact form templates.
 
 = Which Form Fields Does WPForms offer? =
 
@@ -392,7 +393,7 @@ If you're not happy with your WordPress contact form plugin, then definitely giv
 
 = I'd like access to all features. How can I get them? =
 
-You can get access to more features, addons and support by <a href="https://wpforms.com/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend" title="Click here to learn more about WPForms!">upgrading to our Pro version</a>. Purchasing a Pro license gets you access to the full version of WPForms, automatic updates, priority support, and all WPForms Addons!
+You can get access to more features, addons and support by <a href="https://wpforms.com/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend" title="Click here to learn more about WPForms!">upgrading to our Pro version</a>. Purchasing a Pro license gets you access to the full version of WPForms, automatic updates, priority support, and all WPForms Addons!
 
 = Is WPForms translation ready? =
 
@@ -402,7 +403,7 @@ Yes, WPForms has full translation and localization support via the wpforms textd
 
 Yes, WPForms includes spam protection which is enabled on all forms by default in the form settings.
 
-Additionally, Google reCAPTCHA is also supported and can be setup at WPForms > Settings > reCAPTCHA.
+Additionally, Google reCAPTCHA is also supported and can be setup at WPForms &gt; Settings &gt; reCAPTCHA.
 
 WPForms is fully compatible with all versions of Google reCAPTCHA:
 
@@ -410,13 +411,13 @@ WPForms is fully compatible with all versions of Google reCAPTCHA:
 * Invisible reCAPTCHA v2
 * reCAPTCHA v3
 
-Lastly, <a href="https://wpforms.com/addons/custom-catpcha-addon/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">Custom Captchas</a> are available which allow you to create math or question based captchas for your contact forms.
+Lastly, <a href="https://wpforms.com/addons/custom-catpcha-addon/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">Custom Captchas</a> are available which allow you to create math or question based captchas for your contact forms.
 
 == Notes ==
 
-WPForms is absolutely, positively the most <a href="https://wpforms.com/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend" title="Best WordPress contact form plugin">beginner friendly WordPress contact form plugin</a> on the market. It is both easy and powerful.
+WPForms is absolutely, positively the most <a href="https://wpforms.com/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend" title="Best WordPress contact form plugin">beginner friendly WordPress contact form plugin</a> on the market. It is both easy and powerful.
 
-We took the pain out of creating online forms and made it easy. Check out all <a href="https://wpforms.com/features/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin" rel="friend">WPForms features</a>.
+We took the pain out of creating online forms and made it easy. Check out all <a href="https://wpforms.com/features/?utm_source=wprepo&amp;utm_medium=link&amp;utm_campaign=liteplugin" rel="friend">WPForms features</a>.
 
 Also, I'm the founder of <a href="https://www.wpbeginner.com/" rel="friend">WPBeginner</a>, the largest WordPress resource site for beginners. It was a huge priority for me to make a WordPress contact form plugin that beginners can use without any training.
 
@@ -442,7 +443,7 @@ Syed Balkhi
 - Changed: Hide image choice style options if image choices are not enabled.
 - Changed: Improved sanitization for Page and Form IDs in Form embed wizard popup.
 - Changed: Adjusted Weekly Summary email text for Lite users.
-- Changed: Updated the WPForms > About Us page.
+- Changed: Updated the WPForms &gt; About Us page.
 - Changed: Updated jQuery inputmask lib to 5.0.7-beta29.
 - Changed: Updated DOMPurify lib to 2.3.4.
 - Fixed: Missing search docs in the Form Builder Help.
@@ -451,7 +452,7 @@ Syed Balkhi
 - Fixed: PHP notice was generated on a form preview if a page template is changed.
 - Fixed: Correctly handle the legacy widget options (show/hide form title and description) on the front-end.
 - Fixed: If a form with configured Google reCAPTCHA v3 is submitted after 2 minutes, there was an error "Google reCAPTCHA verification failed, please try again later."
-- Fixed: Better compatibility for From Name and From Email fields in the Form Builder > Notifications screen when the WP Mail SMTP plugin forces those values.
+- Fixed: Better compatibility for From Name and From Email fields in the Form Builder &gt; Notifications screen when the WP Mail SMTP plugin forces those values.
 - Fixed: PHP warning occurred when the `%` symbol is used inside some Form Builder settings.
 - Fixed: Form Preview didn't work properly on the upcoming Twenty Twenty-Two theme.
 - Fixed: PHP timeout occurred in the Form Builder when large multi-level term taxonomies were used as dynamic choices for Checkboxes/Multiple Choices/Dropdown fields.
@@ -491,7 +492,7 @@ Syed Balkhi
 - Added: Smart Tags support in Confirmation Messages.
 - Added: Punycode support for the Email field to allow using international domain names.
 - Added: Compatibility with PHP 8.
-- Changed: Display only WPForms related actions on the Tools > Scheduled Actions page.
+- Changed: Display only WPForms related actions on the Tools &gt; Scheduled Actions page.
 - Changed: Enable AJAX form submission by default for new forms created using Blank template and addon templates.
 - Changed: Default state on the CAPTCHA Settings screen on new installs is now set to None.
 - Changed: Improved consistency of various modal popups in the Form Builder.
@@ -573,7 +574,7 @@ Syed Balkhi
 - Changed: Allow using 0/false values in choices label for Checkboxes, Multiple Choice, Dropdown fields.
 - Changed: Better AJAX form submit error messages handling for the Email field.
 - Changed: Refactored Tools page with all of its subpages for easier long-term support.
-- Changed: Updated the WPForms > About Us page.
+- Changed: Updated the WPForms &gt; About Us page.
 - Changed: Updated DOMPurify lib to 2.2.7.
 - Changed: Replaced jQuery.ready() function usage with a recommended way since jQuery 3.0.
 - Fixed: HTML layout is broken on the Analytics page for some site languages.
@@ -588,33 +589,33 @@ Syed Balkhi
 = 1.6.5 =
 - Changed: Updated DOMPurify lib to 2.2.6.
 - Changed: Reload the Form Builder after Save and Embed option usage, and going back using the browser Back button.
-- Changed: Disable From Name and From Email fields in Form Builder > Notifications when the WP Mail SMTP plugin forces those values.
+- Changed: Disable From Name and From Email fields in Form Builder &gt; Notifications when the WP Mail SMTP plugin forces those values.
 - Fixed: The Gutenberg block JavaScript issue in WordPress 5.0-5.1.1 versions.
 - Fixed: The Gutenberg block CSS issues in Twenty Twenty-One theme.
 - Fixed: AMP incompatible script for Lite version.
-- Fixed: Logs records on WPForms > Tools > Logs may not be clickable under certain circumstances, preventing previewing the logged information.
+- Fixed: Logs records on WPForms &gt; Tools &gt; Logs may not be clickable under certain circumstances, preventing previewing the logged information.
 - Fixed: Email Summaries ignoring timezone offset while generating reports.
 - Fixed: Email Suggestion feature when using two or more forms on a page.
 - Fixed: Missing on-hover tooltips' after cloning/duplicating elements in the Form Builder.
-- Fixed: Minor styling issues on the WPForms > Tools > Logs page.
+- Fixed: Minor styling issues on the WPForms &gt; Tools &gt; Logs page.
 - Fixed: Issues while importing forms saved in UTF-8 with BOM.
 - Fixed: Improve performance of the WPForms Challenge.
 - Fixed: WPForms module icon compatibility with the latest Elementor version.
 - Fixed: Incorrect CPT and taxonomy terms alphabetical sorting of the Dynamic Choice option values for fields that support this Advanced Option.
-- Fixed: Compatibility with WordPress 4.9 on the WPForms > Analytics/SMTP pages.
+- Fixed: Compatibility with WordPress 4.9 on the WPForms &gt; Analytics/SMTP pages.
 - Fixed: AJAX form submissions on some server configuration.
 - Fixed: Improve Admin Menu Bar support since WordPress 5.2.
 
 = 1.6.4.1 =
 - Added: Frontend form warning indicating missing WPForms JS (visible to admin only).
 - Changed: Help hCaptcha process all requests in a more efficient way, so bot detection will work better.
-- Fixed: Improve pagination on Tools > Logs page inside the plugin admin area.
+- Fixed: Improve pagination on Tools &gt; Logs page inside the plugin admin area.
 - Fixed: Various JavaScript issues on create post/page/form pages in WordPress 5.6.
 - Fixed: Edge cases when custom fields mapping for providers was broken.
 
 = 1.6.4 =
-- Added: hCaptcha support, see WPForms > CAPTCHA settings.
-- Added: Character/word limit validation message control inside Settings > Validation page.
+- Added: hCaptcha support, see WPForms &gt; CAPTCHA settings.
+- Added: Character/word limit validation message control inside Settings &gt; Validation page.
 - Changed: Dropdown fields using the Modern format will only show the search option if at least 8 choices are provided.
 - Changed: Updated jQuery inputmask library to v5.0.6-beta20
 - Changed: Improved Form Builder Help documentation caching.
@@ -627,14 +628,14 @@ Syed Balkhi
 - Fixed: Possible errors if web host had `set_time_limit()` disabled.
 - Fixed: Email validation issue if form is in a page multiple times.
 - Fixed: Footer links in the Summary email are now working properly.
-- Fixed: Double-click issue for "Add New Account" buttons on the Settings > Integrations page.
+- Fixed: Double-click issue for "Add New Account" buttons on the Settings &gt; Integrations page.
 - Fixed: Gutenberg block ignores "Include Form Styling" setting and forces full CSS stylesheet.
 
 = 1.6.3.1 =
 - Added: Native integration with Divi.
 - Added: Email field Allowlist/Denylist restrictions, see Email field Advanced Options.
 - Added: Form builder Help - contextual help, search docs, and more.
-- Added: Logging, which can be enabled for troubleshooting from WPForms > Tools > Logs.
+- Added: Logging, which can be enabled for troubleshooting from WPForms &gt; Tools &gt; Logs.
 - Changed: Nicely notify users in the Form Builder when their WordPress session has expired, and they can't save the form anymore without a page reload.
 - Changed: Better AJAX form submit field error messages handling.
 - Fixed: Custom metabox heading styling due to WordPress core changes.
@@ -686,11 +687,11 @@ Syed Balkhi
 - Fixed: Input mask validation produces a JS error on jQuery 3.x.
 
 = 1.6.1 =
-- Added: Display a list of scheduled actions on WPForms > Tools > Scheduled Actions page.
+- Added: Display a list of scheduled actions on WPForms &gt; Tools &gt; Scheduled Actions page.
 - Added: Multiple select option for Dropdown field (off by default).
 - Added: New Modern style option for Dropdown field (off by default).
 - Added: Support Smart Tags in form descriptions.
-- Fixed: Properly handle multiple clicks on various accordion-like elements on Form Builder and Settings > Integrations pages.
+- Fixed: Properly handle multiple clicks on various accordion-like elements on Form Builder and Settings &gt; Integrations pages.
 - Fixed: Remove all the plugin-related information on uninstall from the DB when opted-in in plugin settings.
 - Fixed: Replace all new lines characters with spaces in notification email subjects (e.g., when an address field value is used in a subject via a smart tag).
 - Fixed: Make sure the plugin doesn't crash when `iconv` PHP extension is not installed on a server.
@@ -710,7 +711,7 @@ Syed Balkhi
 = 1.6.0.1 =
 - Added: Admin bar menu item.
 - Added: Form Builder alert when using browser "Back" button if form contains unsaved changes.
-- Added: Settings > Emails: "Optimize Email Sending" option which enables sending emails asynchronously.
+- Added: Settings &gt; Emails: "Optimize Email Sending" option which enables sending emails asynchronously.
 - Changed: Async form notification emails are now off by default.
 - Changed: Number Slider field display improvements on small devices.
 - Fixed: Error if there are some plugins or themes add `widget_title` filter.
@@ -724,3 +725,4 @@ Syed Balkhi
 - Fixed: Compatibility issues with Elementor.
 
 [See changelog for all versions](https://plugins.svn.wordpress.org/wpforms-lite/trunk/changelog.txt).
+</p></body></html>
